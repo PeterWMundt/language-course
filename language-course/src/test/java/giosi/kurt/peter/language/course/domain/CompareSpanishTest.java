@@ -14,14 +14,19 @@ import org.junit.jupiter.api.Test;
  */
 public class CompareSpanishTest {
 	
-	CompareSpanish compareSpanish = new CompareSpanish(System.out);
+	private CompareSpanish compareSpanish = new CompareSpanish(System.out);
 	
 	@Test
 	public void normalizeWord() {
 		assertEquals("estres", this.compareSpanish.normalizeWord("estrés"));
 		assertEquals("Si", this.compareSpanish.normalizeWord("Sí"));
-
+		
 		assertEquals("aAeEiInNoOuuUU", this.compareSpanish.normalizeWord("áÁéÉíÍñÑóÓúüÚÜ¿¡?.,;"));
-}
+	}
 	
+	@Test
+	public void compare() {
+		assertEquals(0, this.compareSpanish.compare("alguien necesita una ambulancia", "¡Alguien necesita una ambulancia!" ));
+
+	}
 }

@@ -35,7 +35,13 @@ public class CompareSpanish {
 		this.out.println("*** " + enteredText);
 		this.out.println("*** " + correctSentence);
 
-		int distance = LevenshteinDistance.getDefaultInstance().apply(this.normalizeWord(enteredText), this.normalizeWord(correctSentence));
+		String enteredTextNormalized = this.normalizeWord(enteredText).toLowerCase();
+		String correctSentenceNormalized = this.normalizeWord(correctSentence).toLowerCase();
+		
+		LOGGER.trace("compare- enteredTextNormalized     ={}", enteredTextNormalized);
+		LOGGER.trace("compare- correctSentenceNormalized ={}", correctSentenceNormalized);
+		
+		int distance = LevenshteinDistance.getDefaultInstance().apply(enteredTextNormalized, correctSentenceNormalized);
 		this.out.println("*** " + distance);
 		
 		return distance; 
@@ -75,6 +81,7 @@ public class CompareSpanish {
 		word = word.replace("¿", "");
 		word = word.replace("¡", "");
 
+		word = word.replace("!", "");
 		word = word.replace("?", "");
 		word = word.replace(".", "");
 		word = word.replace(",", "");

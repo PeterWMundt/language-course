@@ -49,7 +49,7 @@ Ich komme immer um drei Uhr.
 Ellos traen papel y lapices.
 Bringen sie Papier und Bleistifte mit?
 
-¿Invitas a tus amigos todos los días?
+Invitas a tus amigos todos los días?
 Lädst du deine Freunde jeden Tag ein?
 
 Son inteligentes y hacen las tareas rapido. 
@@ -991,8 +991,11 @@ Wir brauchen einen anderen Kalender.
 Es el director?
 Ist er der Direktor?
 
-No tengo preguntas. / Tengo una pregunta.
-Ich habe keine Fragen. / Ich habe eine Frage.
+No tengo preguntas.
+Ich habe keine Fragen.
+
+Tengo una pregunta.
+Ich habe eine Frage.
 
 La directora es exigente.
 Die Direktorin ist anspruchsvoll.
@@ -3142,7 +3145,7 @@ Diese Bar hat Live Musik.
 Tienes hambre?
 Hast du Hunger?
 
-¡Tengo hambre!
+Tengo hambre!
 Ich habe Hunger!
 
 No tengo sed.
@@ -3811,7 +3814,7 @@ Ich gebe dir die Informationen über die Radfahrer.
 Tienes un libro de ciencia ficcion?
 Hast du ein Science-Fiction-Buch?
 
-Ella nunca me presta su raqueta? 
+Ella nunca me presta su raqueta. 
 Sie leiht mir nie ihren Schläger.
 
 Hay una carrera en el club cada mes. 
@@ -4867,7 +4870,7 @@ Ich brauche deine Meinung.
 Si quieres, yo te doi mi opinion.
 Wenn du Willst, gebe ich dir meine Meinung.
 
-Hace sol y ni hay arboles. 
+Hace sol y no hay arboles. 
 Es ist sonnig und es gibt keine Bäume.
 
 Si, ella me presta su bicicleta para la carrera. 
@@ -7631,7 +7634,7 @@ Ich muss dieses Projekt heute abgeben.
 Quien tiene mis llaves?
 Wer hat meine Schlüssel?
 
-Estas son tus llaves, 
+Estas son tus llaves, no?
 Das sind deine Schlüssel, nicht wahr?
 
 Cuándo vas a contestar? 
@@ -8084,6 +8087,973 @@ Zum Beispiel, es gibt keine Pause.
 Por ejemplo?
 Zum Beispiel? 
 
+Algunos productos son picantes.
+Einige Produkte sind scharf.
 
+Si quieres queso, este es excelente.
+Wenn du Käse willst, dieser ist ausgezeichnet.
+
+Disculpen, tienen pasta sin gluten?
+Entschuldigen Sie, haben Sie glutenfreie Nudeln?
+
+Esta crema es perfecta para la sopa.
+Diese Sahne ist perfekt für die Suppe.
+
+Tus ideas me ayudan.
+Deine Ideen helfen mir.
+
+Estan bastante aliviados, verdad?
+Sie sind ziemlich erleichtert, nicht wahr?
+
+Tus metas son bastante creativas. 
+Deine Ziele sind ziemlich kreativ.
+
+Hay una solucion?
+Gibt es eine Lösung?
+
+Tengo unos días libres pronto.
+Ich nehme bald ein paar freie Tage. 
+
+Paula, muchas gracias por esa idea.  
+Paula, vielen Dank für diese Idee. 
+
+De hecho, es la solución perfecta para nuestro problema en la empresa.
+Das ist sogar die perfekte Lösung für unser Problem in der Firma. 
+
+.. tú siempre me ayudas!
+.. du hilfst mir immer!
+
+Qual es tu meta?
+Was ist dein Ziel?
+
+Ahora estamos bastante aliviados.
+Wir sind jetzt ziemlich erleichtert.
+
+Eres profesional y trabajador.
+Du bist professionell und fleissig.
+
+Hoy empezamos a trabajar juntos. 
+Heute fangen wir an, zusammen zu arbeiten.
+
+No tengo estres ahora mismo. 
+Ich habe jetzt keinen Stress.
+
+Por que tienes estres? 
+Warum hast du Stress?
+
+Gracias por el apoyo! 
+Ich danke Ihnen für Ihre Unterstützung!
+
+Son días bastante difíciles y los clientes son exigentes. 
+Diese Tage sind ziemlich schwierig und die Kunden sind anspruchsvoll.
+
+Pero ustedes son muy profesionales y trabajan sin parar!
+Aber Sie sind sehr professionell und arbeiten nonstop!
+
+Su apoyo es muy util!
+Ihre Unterstützung ist sehr nützlich!
+
+Cuando empezamos a trabajar? 
+Wann fangen wir an zu arbeiten?
+
+Empezamos a trabajar temprano.
+Wir beginnen früh zu arbeiten.
+
+Necesitamos una respuesta. 
+Wir brauchen eine Antwort.
+
+Este ano, ella esta demasiado frustrada con el trabajo. 
+Dieses Jahr ist sie zu frustriert mit der Arbeit. 
+
+Su esposo esta frustrado tambien!
+Ihr Mann ist auch frustriert!
+
+El ascensor esta roto. 
+Der Aufzug ist kaputt.
+
+Estoy muy estresado y necesito terminar los documentos. 
+Ich bin sehr gestresst und muss die Dokumente fertigstellen.
+
+Además, necesito enviar este mensaje, porque el jefe está esperando una respuesta.
+Außerdem muss ich diese Nachricht abschicken, weil mein Chef auf eine Antwort wartet.
+
+En este momento, la jefa esta demasiado ocupada, y el nuevo empleado estan ocupado tambien.
+In diesem Moment ist die Chefin zu beschäftigt und der neue Angestellte ist auch beschäftigt.
+
+Honestamente, estoy aliviado porque vamos a entregar el proyecto. 
+Ehrlich gesagt, bin ich erleichtert, dass wir das Projekt zu Ende bringen werden.
+
+Después de eso, necesito una semana libre porque estoy bastante cansado.
+Danach brauche ich eine Woche Pause, weil ich ziemlich müde bin.
+
+El hombre quiere descansar. 
+Der Mann will sich ausruhen. 
+
+Ahora ese viaje es mi meta. 
+Jetzt ist diese Reise mein Ziel.
+
+Es demasiado complicado. 
+Es ist zu kompliziert.
+
+Tengo unos dias libres pronto. 
+Ich habe bald ein paar freie Tage.
+
+Ellas estan bastante frustradas, porque su jefe es egoista. 
+Sie sind ziemlich frustriert, weil ihr Chef egoistisch ist.
+
+Si me despierto tarde, llego tarde. 
+Wenn ich spät aufwache, komme ich spät an.
+
+Necesito entregar este documento hoy. 
+Ich muss dieses Dokument heute abgeben. 
+
+Estoy muy nervioso! 
+Ich bin sehr nervös!
+
+Quiero aquella.
+Ich will den da.
+
+Seguro? La mermelada de fresa esta en oferta.
+Sicher? Die Erdbeermarmelade ist im Angebot.
+
+Las bolsas cuestan dos pesos, ¿no?
+Die Taschen kosten zwei Pesos, richtig?
+
+Aquellas? Lo siente, ahora cuestan tres pesos. 
+Jene? Es tut mir leid, jetzt kosten sie drei Pesos.
+
+Tengo dos raquetas.
+Ich habe zwei Schläger.
+
+Quiero ver la estatua. 
+Ich will die Statue sehen.
+
+Mi hijos viven lejos de la naturaleza. 
+Meine Kinder leben weit weg von der Natur.
+
+Estos arboles son altos. 
+Diese Bäume sind gross.
+
+Mi hermana es mi mejor amiga.
+Meine Schwester ist meine beste Freundin.
+
+Su mejor amiga vive con su pareja. 
+Ihre beste Freundin lebt mit ihrem Partner.
+
+Hace buen tiempo en dicembre? 
+Ist das Wetter im Dezember gut?
+
+Mi mejor amigo vive en el campo ahora.
+Mein bester Freund lebt jetzt auf dem Lande.
+
+Hace buen tiempo en octubre allí?
+Ist das Wetter im Oktober dort gut?
+
+Mi mejor amigo es de Rusia tambien! 
+Mein bester Freund kommt auch aus Russland!
+
+Mi mejor amigo es Pedro. 
+Mein bester Freund ist Pedro.
+
+Mi mejor amiga es graciosa, no? 
+Meine beste Freundin ist lustig, oder?
+
+Mi mejor amiga es de Rusia. 
+Meine beste Freundin kommt aus Russland.
+
+Pedro es mi hermano y mi mejor amigo.
+Pedro ist mein Bruder und mein bester Freund.
+
+Hace buen tiempo, no crees?
+Das Wetter ist gut, findest du nicht auch?
+
+Pablo, mi mejor amigo es Luis. 
+Pablo, mein bester Freund ist Luis.
+
+Me gusta jugar al golf, ¡pero soy mala!
+Ich spiele gerne Golf, aber ich bin schlecht!
+
+Es una actriz magnífica.
+Sie ist eine grossartige Schauspielerin.
+
+Estas tiendas estan antes de la catedral? 
+Sind diese Geschäfte vor der Kathedrale?
+
+Eres buena en los deportes? 
+Bist du gut im Sport?
+
+Para nada, yos muy mala. 
+Überhaupt nicht, ich bin sehr schlecht.
+
+Chicos, quieren los juguetes? 
+Jungs, wollt ihr die Spielzeuge?
+
+Si, nos gusta ver serias. 
+Ja, wir sehen gerne Serien.
+
+Te gusta ver películas?
+Siehst du gerne Filme?
+
+Claro, en el cine y en casa. 
+Natürlich, im Kino und zu Hause.
+
+Las serpientes son peligrosas?
+Sind Schlangen gefährlich?
+
+Las serpientes son muy bonitas.
+Schlangen sind sehr schön.
+
+Si ,pero son muy peligrosas tambien.
+Ja, aber sie sind auch sehr gefährlich.
+
+La película es magnífica.
+Der Film ist grossartig. 
+
+Dónde están tus juguetes?
+Wo sind deine Spielsachen?
+
+Sí, el final es sorprendente.
+Ja, das Ende ist überraschend. 
+
+Es una historia romántica!
+Es ist eine romantische Geschichte!
+
+Es sorprendente, estoy de acuerdo.
+Es ist überraschend, da stimme ich zu.
+
+Por qué nunca vas a la pescadería?
+Warum gehst du nie zum Fischhändler?
+
+Porque el supermercado es mas barato. 
+Weil der Supermarkt billiger ist. 
+
+En este lugar, el salmón es delicioso.
+An diesem Ort ist der Lachs köstlich. 
+
+Si, la pescaderia esta a unos metros. 
+Ja, das Fischgeschäft ist ein paar Meter entfernt.
+
+Dónde pasas los fines de semana?
+Wo verbringst du die Wochenenden?
+
+Si, solo con reservacion. 
+Ja, nur mit Reservierung.
+
+Pasa diciembre y enero en el campo? 
+Verbringen Sie den Dezember und Januar auf dem Land?
+
+Nunca salgo de aqui temprano! 
+Ich gehe nie früh von hier weg!
+
+Gracias por la invitacion. 
+Danke für die Einladung.
+
+No importa?
+Macht das nichts?
+
+Tienes frio? 
+Ist dir kalt?
+
+Que mala suerte, no tienes experiencia. 
+Was für ein Pech, du hast keine Erfahrung.
+
+Necesita salir de casa temprano. 
+Sie muss früh das Haus verlassen.
+
+Prefieres pocos invitados en la noche? 
+Bevorzugst du wenige Gäste in der Nacht?
+
+Siempre preparo este plato con mi mama. 
+Ich bereite dieses Gericht immer mit meiner Mutter zu.
+
+Estoy un poco cansado, porque me despierto temprano. 
+Ich bin ein bisschen müde, weil ich früh aufwache.
+
+En este momento, estoy un poco estresada. 
+In diesem Moment bin ich ein bisschen gestresst.
+
+Juan nunca entrega los proyectos, y el director está muy enojado.
+Juan gibt die Projekte nie ab, und der Regisseur ist sauer.
+
+Estoy frustrada, porque mi jefe es muy antipatico.
+Ich bin frustriert, weil mein Chef sehr unsympathisch ist.
+
+En este momento necesito ayuda. 
+Im Moment brauche ich Hilfe.
+
+Entgrego dos proyectos cada semana. 
+Ich liefere jede Woche zwei Projekte ab.
+
+Las soluciones son buenas y somos bastante creativos. 
+Die Lösungen sind gut und wir sind ziemlich kreativ.
+
+Gracias, estoy aliviado.
+Danke, ich bin erleichtert.
+
+El proyecto esta listo, por eso estan bastante aliviados. 
+Das Projekt ist fertig, deswegen sind sie ziemlich erleichtert.
+
+Necesitamos unas dias libres, porque estamos bastante cansados.
+Wir brauchen einige freie Tage, weil wir ziemlich müde sind.
+
+Yo tengo la solucion!
+Ich habe die Lösung!
+
+Esta tarea es urgente, y estamos un poco frustrados! 
+Diese Aufgabe ist dringend, und wir sind ein bisschen frustriert!
+
+Empiezo a trabajar a las seis. 
+Ich beginne um sechs Uhr zu arbeiten.
+
+Trabajamos sin parar, ¡estamos un poco estresados!
+Wir arbeiten ununterbrochen, wir sind ein bisschen gestresst!
+
+Tengo dos nuevas tareas. 
+Ich habe zwei neue Aufgaben.
+
+Tengo estres y estoy un poco nerviosa. 
+Ich bin gestresst und ich bin ein bisschen nervös.
+
+Estoy un poco emocionada, porque voy a firmar el documento.
+Ich bin ein bisschen aufgeregt, weil ich das Dokument unterschreiben werde.
+
+Tengo estres, porque trabajo solo.
+Ich bin gestresst, weil ich alleine arbeite.
+
+La tarea es complicada, por eso estoy un poco preocupada. 
+Die Aufgabe ist kompliziert, deswegen bin ich ein bisschen besorgt.
+
+Tengo el apoyo de mi equipo. 
+Ich habe die Unterstützung meines Teams.
+
+Es un dia complicado. 
+Es ist ein komplizierter Tag.
+
+Tienes nuestro apoyo! 
+Du hast unsere Unterstützung!
+
+Vas a firmar con un lapiz verde? 
+Wirst du mit einem grünen Stift unterschreiben?
+
+Tienes hambre, porque trabajas sin parar. 
+Du hast Hunger, weil du ununterbrochen arbeitest.
+
+Me despierto temprano todos los dias! 
+Ich wache jeden Tag früh auf!
+
+Si tu me ayudas, yo te ayudo. 
+Wenn du mir hilfst, helfe ich dir.
+
+Me puede ayudar?
+Kannst du mir helfen?
+
+Gracias, tu siempre me ayudas. 
+Danke, du hilfst mir immer.
+
+Entrego dos proyectos cada semana.
+Ich liefere jede Woche zwei Projekte ab.
+
+Su apoyo es importante.
+Ihre Unterstützung ist wichtig.
+
+Mis jefes son muy egoistas.
+Meine Chefs sind sehr egoistisch.
+
+Normalmente trabajo las ocho horas sin parar.
+Normalerweise arbeite ich alle acht Stunden nonstop.
+
+Necesitas descansos de diez minutos, por ejemplo.
+Du brauchst pausen von zehn Minuten, zum Beispiel.
+
+Perdone, necesito ir a este lugar.
+Verzeihen Sie, ich muss zu diesem Ort gehen.
+
+Voy a hablar con el conductor del autobús.
+Ich werde mit dem Busfahrer sprechen.
+
+¿Y si vamos en taxi?
+Und wenn wir mit dem Taxi fahren?
+
+¡Mira, hay un taxista!
+Schau, da ist ein Taxifahrer!
+
+¿Cómo llego a la zona vieja?
+Wie komme ich zur Altstadt?
+
+¿Está en el patio?
+Ist es im Innenhof?
+
+Que raro. El siempre viene rapido, cuando hay comida. 
+Wie seltsam. Er kommt immer schnell her wenn es Essen gibt.
+
+Siempre se escapan!
+Sie laufen immer weg!
+
+Vamos a cerrar la puerta.
+Wir werden die Tür schliessen.
+
+Bueno, vamos a cerrar la puerta.
+Also, wir werden die Türe schliessen.
+
+Mis gatos descansan mucho.
+Meine Katzen ruhen sich viel aus. 
+
+Cuando come mucho, no quiere salir.
+Wenn er viel isst, möchte er nicht ausgehen.
+
+Ellos corren mucho fuera.
+Sie laufen viel im Freien.
+
+A veces cierro esa puerta.
+Manchmal schliesse ich diese Tür.
+
+Qué raro, no está en la cama.
+Wie seltsam, er ist nicht im Bett. 
+
+El perro está en el patio?
+Der Hund ist auf dem Hof?
+
+No, y tampoco esta debajo de la cama. Que raro.
+Nein, und es ist auch nicht unter dem Bett. Wie seltsam.
+
+Todas las ventanas estan abiertas.
+Alle Fenster sind offen. 
+
+Los perros se escapan a menudo, porque nunca cierras la puerta! 
+Die Hunde laufen oft weg, weil du die Tür nie schliesst!
+
+Sí, mi perro cierra las puertas!
+Ja, mein Hund macht die Türen zu!
+
+Pues, no sé.
+Nun, ich weiss nicht. 
+
+No funciona!
+Es funktioniert nicht!
+
+Mi perro Frijol está muy lejos y el coche no funciona. 
+Mein Hund Frijol ist sehr weit weg und das Auto funktioniert nicht. 
+
+¿Qué hacemos?
+Was machen wir?
+
+El coche no funciona!
+Der Wagen funktioniert nicht!
+
+Pues, tenemos las bicicletas! 
+Nun, wir haben Fahrräder!
+
+Esto es muy lento.
+Das ist sehr langsam.
+
+Tu gato no es lento.
+Deine Katze ist nicht langsam.
+
+El garaje está ahí.
+Die Garage ist da. 
+
+¡Vamos a encontrar los perros! 
+Lass uns die Hunde finden! 
+
+Yo tengo una moto en el garaje de mi casa.
+Ich habe ein Motorrad in der Garage meines Hauses!
+
+Te quejas demasiado!
+Du beschwerst dich zu viel! 
+
+Si, gritan demasiado. 
+Ja, sie schreien zu viel.
+
+Y caminamos demasiado tambien. 
+Und wir laufen auch zu viel. 
+
+Mi perro es rápido y nosotros somos lentos.
+Mein Hund ist schnell und wir sind langsam.
+
+No tengo fiebre. 
+Ich habe kein Fieber.
+
+Esa caja tiene panuelos? 
+Hat diese Kiste Taschentücher?
+
+Aquí tiene una receta para el dolor.
+Hier ist ein Rezept gegen den Schmerz.
+
+Vamos, quiero comprar esas pastillas ahora mismo. 
+Los geht's, ich will diese Tabletten jetzt gleich kaufen.
+
+Necesitamos algunos médicos ahora.
+Wir brauchen jetzt ein paar Ärzte.
+
+Hay alguna farmacia abierta ahora?
+Gibt es jetzt irgendeine geöffnete Apotheke? 
+
+Ahora hay algunas pacientes en la clinica. 
+Jetzt sind einige Patienten in der Klinik.
+
+Pero doctor, yo no fumo.
+Aber Doktor, ich rauche nicht.
+
+Camino mal con este pie. 
+Ich gehe schlecht mit diesem Fuss.
+
+Nosotros le ensenamos la ciudad. 
+Wir zeigen ihr die Stadt.
+
+Le agradezco mucho su tiempo hoy. 
+Ich danke Ihnen sehr für Ihre Zeit heute.
+
+Gracias por el tour. 
+Danke für die Tour.
+
+Mira, esta jugando ahi. 
+Schau, er spielt gerade dort.
+
+El gato no esta encima de la cama?
+Ist die Katze nicht auf dem Bett?
+
+Este parque es especial para nosotros. 
+Dieser Park ist besonders für uns.
+
+No vas a cerrar le ventana? 
+Wirst du das Fenster nicht schliessen?
+
+Las bicicletas estan en el garaje. 
+Die Fahrräder sind in der Garage.
+
+Ahora estamos jugando. 
+Jetzt gerade spielen wir.
+
+Que pena, mi coche no funciona.
+Wie schade, mein Auto funktioniert nicht.
+
+Ay, mi perrito esta agotado! 
+Ahh, mein Hündchen ist erschöpft!
+
+Te preocupas poco. 
+Du machst dir wenig Sorgen.
+
+Cuantos correos electronicos?
+Wie viele E-Mails?
+
+el telefono de la empresa 
+das Telefon der Firma
+
+Necesitamos mejor nuestros proyectos. 
+Wir müssen unsere Projekte verbessern.
+
+Ese empleado nunca contesta mis mensajes. 
+Dieser Angestellte antwortet nie auf meine Nachrichten.
+
+El cliente necesita algo. 
+Der Kunde braucht etwas.
+
+Hay alguien nuevo en nuestro negocio? 
+Gibt es jemand Neues in unserem Geschäft?
+
+A que hora es la entrevista? 
+Um wie viel Uhr ist das Vorstellungsgespräch?
+
+Lucia es la directora. 
+Lucía ist die Direktorin.
+
+No tenemos ninguna reunion hoy. 
+Wir haben heute keine Besprechung.
+
+Quieren mejorar el equipo. 
+Sie wollen das Team verbessern.
+
+Disculpe, todavia tenemos preguntas. 
+Entschuldigung, wir haben noch Fragen.
+
+Alguien necesita el calendario? 
+Braucht jemand den Kalender?
+
+Por que quieres cambiar de trabajo? 
+Warum willst du den Job wechseln?
+
+¡Mira, tu perrita!
+Schau, dein Hündchen! 
+
+Es una perrita marrón.
+Sie ist eine braune Hündin.
+
+¿Y si caminas más rápido?
+Und wenn du schneller gehst? 
+
+¿Y si vamos en autobús?
+Und wenn wir mit dem Bus fahren?
+
+Buena idea, necesitamos ir mas rapido! 
+Gute Idee, wir müssen schneller gehen!
+
+No, la conductora no conoce el lugar.
+Nein, die Fahrerin kennt den Ort nicht. 
+
+Quizás la conductora conoce bien este barrio.
+Vielleicht kennt die Fahrerin dieses Viertel gut. 
+
+Hablamos bastante.
+Wir sprechen genug. 
+
+Si, caminamos bastante. 
+Ja, wir spazieren genug.
+
+¿Tienen muchos gatos?
+Haben Sie viele Katzen?
+
+¿Cocinan bastante?
+Kochen sie genug?
+
+¿Limpian bastante?
+Reinigen sie ausreichend?
+
+Mi perrito corre bastante. 
+Mein kleiner Hund rennt ziemlich viel.
+
+Este autobús va muy lento.
+Dieser Bus fährt sehr langsam.
+
+Conductor, necesitamos ir mas rapido, por favor! 
+Fahrer, wir müssen schneller fahren, bitte!
+
+¡Tal vez mi perrito está en el parque! 
+Vielleicht ist mein Hündchen im Park! 
+
+¿Y si tomamos el autobús?
+Und wenn wir den Bus nehmen?
+
+El conductor habla demasiado. 
+Der Fahrer spricht zu viel.
+
+Si, mis gatos corren bastante. 
+Ja, meine Katzen rennen genug.
+
+La informacion esta en el documento. 
+Die Information ist im Dokument.
+
+Alguien necesita informacion? 
+Braucht jemand Informationen?
+
+El equipo va a mejorar la empresa. 
+Das Team wird das Unternehmen verbessern.
+
+Tenemos dos directores.
+Wir haben zwei Direktoren.
+
+Tienes un sobre para esta carta? 
+Hast du einen Umschlag für diesen Brief?
+
+Guau, que interesante, no?
+Wow, wie interessant, nicht wahr?
+
+No quiero enviar esta carta. 
+Ich will diesen Brief nicht senden.
+
+Nuestro equipo tiene mucho trabajo. 
+Unser Team hat viel Arbeit.
+
+¿Te sientes agotado?
+Fühlst du dich erschöpft? 
+
+¿Esta zona es tranquila?
+Ist diese Gegend ruhig?
+
+Perdone, necesito llegar pronto.
+Verzeihen Sie, ich muss bald ankommen. 
+
+Los taxistas conocen este lugar.
+Die Taxifahrer kennen diesen Ort. 
+
+En esta zona hay muchas taxistas. 
+In dieser Gegend gibt es viele Taxifahrer. 
+
+Mira, ahi hay una parada de taxi!
+Schau, dort gibt es einen Taxistand.
+
+Discutimos poco.
+Wir streiten uns wenig.
+
+Mi gato come poco. 
+Meine Katze isst wenig.
+
+Son pocos kilómetros.
+Es sind nur wenige Kilometer.
+
+Hoy corremos poco.
+Heute laufen wir sehr wenig.
+
+Y caminamos poco también. 
+Und wir gehen auch wenig.
+
+Vamos a hablar con esa taxista! 
+Lass uns mit dieser Taxifahrerin sprechen!
+
+Perdone, yo no soy taxista! 
+Verzeihen Sie, ich bin kein Taxifahrer!
+
+Perdone, busco a mi gato, pero estoy agotada. 
+Entschuldigen Sie, ich suche meine Katze, aber ich bin erschöpft.
+
+Usted tiene coche, ¿no?
+Sie haben doch ein Auto, oder?
+
+Claro, si quieres, yo manejo! 
+Natürlich, wenn du willst fahre ich!
+
+Perdone, pero estamos agotadas.
+Entschuldigen Sie bitte, aber wir sind erschöpft.
+
+Estoy un poco agotada.
+Ich bin ein bisschen erschöpft.
+
+Estamos agotadas y un poco nerviosas.
+Wir sind erschöpft und ein bisschen nervös.
+
+Mira, tu gato esta ahi!
+Schau, deine Katze ist da!
+
+¡Te quiero!
+Ich liebe dich!
+
+¡Eres especial!
+Du bist etwas Besonderes!
+
+¡Te quiero mucho!
+Ich liebe dich sehr!
+
+Y ellas cocinan poco también.
+Und sie kochen auch wenig.
+
+No, no están jugando.
+Nein, sie spielen nicht.
+
+Mira, está jugando ahí.
+Schau, er spielt gerade dort.
+
+Si! Ese es! Te quiero, perrito! Eres especial! 
+Ja! Das ist er! Ich liebe dich, Hündchen! Du bist besonders!
+
+Ese perro está jugando con los pájaros en el parque. ¿Es él?
+Der Hund, der mit den Vögeln im Park spielt - ist er das?
+
+No sé, a veces me preocupo.
+Ich weiss es nicht, manchmal mache ich mir Sorgen.
+
+Me preocupo porque eres especial.
+Ich mache mir Sorgen, weil du besonders bist. 
+
+Me preocupo, porque te quiero.
+Ich sorge mich, weil ich dich liebe.
+
+No vas a cerrar la ventana?
+Wirst du das Fenster nicht schliessen? 
+
+Mira, tus gatos están jugando con la vecina Lucy!
+Schau, die Katzen spielen gerade mit der Nachbarin Lucy!
+
+Por que nunca cierras la puerta?
+Warum schliesst du nie die Tür ab?
+
+Guau, tu perrito tiene energía! ¡Corre sin parar!
+Wow, dein Hündchen hat Energie! Er rennt ununterbrochen!
+
+Tu perrita corre bastante, y nosotros también. ¡Estoy agotado!
+Dein Hündchen rennt genug und wir auch. Ich bin erschöpft!
+
+Donde esta el senor Bigotes? A veces esta debajo de la cama.
+Wo ist Herr Bigotes? Manchmal ist er unter dem Bett.
+
+Quiero explorar esta zona a pie. 
+Ich will diese Gegend zu Fuss erkunden.
+
+Mi gato odia ir al patio.  
+Meine Katze hasst es, in den Hof zu gehen.
+
+Ay, corro poco, porque estoy agotada.
+Ahh, ich laufe wenig, weil ich erschöpft bin.
+
+Pues los conductores aquí hablan bastante, ¡por eso los autobuses van muy lento!
+Nun, die Fahrer hier sprechen genug, deswegen fahren die Busse sehr langsam!
+
+Mis perros corren demasiado y ahora están muy cansados.
+Meine Hunde rennen zu viel und jetzt sind sie müde.
+
+Cada mañana, cierro la puerta.
+Jeden Morgen, schliesse ich die Türe. 
+
+Perdone, mi perrito está perdido.
+Entschuldigen Sie, mein kleiner Hund hat sich verlaufen.
+
+Ahi esta mi gato. 
+Da ist meine Katze.
+
+Discuten mucho, porque el nunca cierra la puerta. 
+Sie streiten viel, weil er nie die Tür abschliesst.
+
+Por que vas a cerrar la puerta? 
+Warum wirst du die Tür schliessen?
+
+Todas las ventanas estan abiertas.
+Alle Fenster sind offen.
+
+Voy a cerrar la puerta ahora mismo! 
+Ich werde die Tür jetzt sofort schliessen! 
+
+Mi perro no esta aqui, y la ventana esta abierta. 
+Mein Hund ist nicht hier, und das Fenster ist offen.
+
+Salta mucho, por eso cierro la puerta. 
+Er springt viel, deshalb schliesse ich die Tür.
+
+Mi gato corre mucho en el patio. 
+Meine Katze rennt viel im Hof. 
+
+¡Estoy muy sorprendida!
+Ich bin sehr überrascht!
+
+Si abres la puerta, el perro se escapa.
+Wenn du die Tür öffnest, läuft der Hund weg.
+
+Empezamos a buscar soluciones.
+Sollen wir anfangen, Lösungen zu suchen?
+
+Esto, por ejemplo.
+Da, zum Beispiel.
+
+¡Este año siempre estoy muy cansado!
+Dieses Jahr bin ich immer sehr müde!
+
+Por que? Te despiertas en la noche? 
+Warum? Wachst du nachts auf?
+
+¡Qué mala suerte! 
+Was für ein Pech! 
+
+Esta semana me despierto temprano para ir al trabajo.
+Diese Woche wache ich früh auf um zur Arbeit zu gehen.
+
+No es una tarea fácil!
+Keine leichte Aufgabe!
+
+Cierto, es muy complicada. 
+Richtig, sie ist sehr kompliziert. 
+
+Le agradezco su trabajo.
+Ich danke Ihnen für Ihre Arbeit.
+
+Por ejemplo trabajo hasta la siete. 
+Zum Beispiel arbeite ich bis sieben Uhr.
+
+Si el proyecto es complicado, te ayudo. 
+Wenn das Projekt kompliziert ist, helfe ich dir.
+
+Lo siento, esa no es mi tarea.
+Tut mir leid, das ist nicht meine Aufgabe.
+
+Bailas bachata muy bien. 
+Du tanzt sehr gut Bachata.
+
+Me gusta saltar con la musica.
+Ich mag es, mit der Musik zu springen.
+
+Y ademas eres negativo. 
+Und ausserdem bist du negativ.
+
+Te agradezco las preguntas, pero estoy bien.
+Ich danke dir für die Fragen, aber mir geht es gut.
+
+Me encanta mi grupo de amigos!
+Ich liebe meine Gruppe Freunde!
+
+No entrego el documento hoy.
+Ich gebe das Dokument heute nicht ab.
+
+Ellas estan bastante frustradas, no? 
+Sie sind ziemlich frustriert, nicht wahr?
+
+Ay, ¡mi moto no funciona! 
+Oh, mein Fahrrad funktioniert nicht! 
+
+Pero en el garaje tengo dos bicicletas. 
+Aber ich habe zwei Fahrräder in der Garage. 
+
+Necesitamos buscar en los parques y en los patios de los vecinos. 
+Wir müssen in den Parks und in den Höfen der Nachbarn suchen. 
+
+¡Vamos!
+Los geht's!
+
+Mi bicicleta no es lenta!
+Mein Fahrrad ist nicht langsam!
+
+Tu gato no esta en el garaje?
+Ist deine Katze nicht in der Garage?
+
+Mi bicicleta está en el garaje.
+Mein Fahrrad ist in der Garage. 
+
+Abres el garaje ahora?
+Öffnest du die Garage jetzt?
+
+Pues los hijos del vecino gritan demasiado y por eso mis mascotas están muy asustadas.
+Nun, die Kinder des Nachbarn schreien zu viel und deswegen sind meine Haustiere sehr erschrocken.
+
+Pues vamos a usar las bicicletas!
+Nun benutzenw wir die Fahrräder. 
+
+Mis gatos comen demasiado, por eso ellos son muy lentos! 
+Meine Katzen essen zu viel, deswegen sind sie sehr langsam!
+
+Pues, necesito tu ayuda. 
+Nun, ich brauche deine Hilfe.
+
+No se, es mi dia libre. 
+Ich weiss nicht, es ist mein freier Tag!
+
+Empezamos a organizar el proyecto? 
+Sollen wir anfangen, das Projekt zu organisieren?
+
+Veo un perrito. 
+Ich sehe einen kleinen Hund.
+
+Mi gatos comen bastante y ahora tienen dolor de estómago. 
+Meine Katzen essen genug und jetzt haben sie Magenschmerzen.
+
+Estoy muy preocupado.
+Ich bin sehr besorgt.
+
+Esta zona tiene muchos perros.
+Diese Zone hat viele Hunde.
+
+Si, pero hay muchos gatos en esta zona!
+Ja, aber es gibt viele Katzen in dieser Gegend!
+
+Mira, ¡hay una parada de taxi ahí!  
+Schau, dort ist ein Taxistand! 
+
+Vamos a hablar con ese taxista porque necesitamos regresar rápido.
+Lass uns mit dem Taxifahrer sprechen, denn wir müssen schnell zurück. 
+
+¡Tal vez mi perrita está en casa!
+Vielleicht ist mein kleiner Hund zu Hause!
+
+Quiere tomar un taxi.
+Sie möchten ein Taxi nehmen.
+
+El taxista conduce muy lento. 
+Der Taxifahrer fährt sehr langsam.
+
+Esta zona es muy peligrosa. 
+Diese Gegend ist sehr gefährlich. 
+
+Mi perro y yo caminamos poco por aquí.
+Mein Hund und ich spazieren wenig hier.
+
+Caminas mucho en esta zona? 
+Spazierst du viel in dieser Gegend?
+
+Disculpen, necesitamos ayuda. 
+Entschuldigen Sie, wir brauchen Hilfe.
 
 
