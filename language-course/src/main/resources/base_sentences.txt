@@ -400,7 +400,7 @@ Das ist nicht meine Tasche, wie dumm
 La invitación no está encima de la silla.
 Die Einladung ist nicht auf dem Stuhl.
 
-¿Te duelen las piernas porque caminas mucho?
+¿Te duelen las piernas, porque caminas mucho?
 Tun dir die Beine weh, weil du viel läufst?
 
 Bueno, nosotras tomamos estas medicinas porque nos duelen las piernas.
@@ -790,7 +790,7 @@ Einige Kliniken öffnen heute.
 Algunas enfermedades son graves.
 Einige Krankheiten sind schwer.
 
-Sí, conozco algunas médicas aquí.
+Sí, conozco a algunas médicas aquí.
 Ja, ich kenne hier einige Ärztinnen.
 
 Tengo algunas mascarillas y también tengo algunos pañuelos, doctor.
@@ -1111,7 +1111,10 @@ Ich habe keine neue E-Mail.
 Los ingenieros no contestan los mensajes.
 Die Ingenieure antworten nicht auf die Nachrichten.
 
-Que lastima! Necesitamos la informaction ahora. (¡La jefa no contesta el teléfono!)
+La jefa no contesta el teléfono!
+Die Chefin geht nicht ans Telefon!
+
+Que lastima! Necesitamos la informaction ahora. 
 Wie schade! Wir brauchen die Information jetzt.
 
 Ahora Isabel lee y envia los correos electrónicos de nuestro negocio.
@@ -1231,7 +1234,13 @@ Er ist sympathisch aber sehr abgelenkt!
 ¡Tenemos mil problemas con el ingeniero! 
 Wir haben tausend Probleme mit dem Ingenieur! 
 
-Bienvenida! Aqui esta el calendario con el horario. (Disculpa, soy la nueva abogada. ¿Hay alguna reunión hoy?)
+Disculpa, soy la nueva abogada.
+Entschuldigung, ich bin die neue Anwältin.
+
+Gibt es heute eine Besprechung?
+Hay alguna reunión hoy?
+
+Bienvenida! Aqui esta el calendario con el horario. 
 Willkommen! Hier ist der Kalender mit den Terminen.
 
 Anoto la informacion ahora.
@@ -1912,9 +1921,6 @@ Ich werde jetzt gleich bezahlen!
 Cuales son mejores para el invierno? 
 Welche sind besser für den Winter?
 
-Cual de estos abrigos te gusta? 
-Welchen von diesen Mänteln magst du?
-
 ¿Tienen ropa para la lluvia?
 Haben Sie Regenkleidung? 
 
@@ -2374,7 +2380,7 @@ Ich will Joghurt, und dieser ist billig.
 No, es muy fuerte.
 Nein, es ist sehr stark.
 
-Disculpen que necesitan?
+Disculpen, que necesitan?
 Entschuldigen Sie, was benötigen Sie?
 
 Quiero ver el final otra vez.
@@ -3481,7 +3487,7 @@ Der Krankenwagen kommt in zwei Minuten.
 No sé, pero se sienten mal.
 Ich weiss nicht, aber sie fühlen sich schlecht.
 
-Eh, yo no conozco al médico.
+Ay, yo no conozco al médico.
 Äh, ich kenne den Arzt nicht.
 
 Es grave!
@@ -4912,7 +4918,7 @@ Einige Tabletten sind hier teuer.
 dos mascarillas
 zwei Masken
 
-Conozco algunos médicos bueno.
+Conozco a algunos médicos buenos.
 Ich kenne einige gute Ärzte.
 
 Doctora, me siento muy mal.
@@ -5323,7 +5329,7 @@ Die Postleitzahl dieses Briefs ist falsch, es gibt nur drei Zahlen!
 Ese no es mi codigo postal. 
 Diese hier ist nicht meine Postleitzahl.
 
-Vas a responder mi mensaje?
+Vas a responder a mi mensaje?
 Wirst du auf meine Nachricht antworten? 
 
 Ese es el codigo postal equivocado! 
@@ -5337,7 +5343,6 @@ Ja, ich schreibe ihnen romantische Briefe.
 
 Yo soy el destinatario.
 Ich bin der Empfänger. 
-
 
 Yo le envío muchas cartas a mi novio. 
 Ich schicke meinem Freund viele Briefe. 
@@ -5672,7 +5677,7 @@ die Krankheiten
 Por favor, es urgente! 
 Bitte, es ist dringend!
 
-Prefieres traducir de china a frances. 
+Prefieres traducir de chino a frances. 
 Bevorzugst du es, vom Chinesischen ins Französische zu übersetzen?
 
 Conoces a Juan? 
@@ -6860,8 +6865,11 @@ Seltsam, es regnet sehr viel.
 Ay, es una tormenta!
 Ahh, es ist ein Sturm! 
 
-Hay un tormento! Necesito mi impermeable ahora! 
-Es gibt einen Sturm! Ich brauche jetzt meinen Regenmantel!
+Hay un tormento! 
+Es gibt einen Sturm! 
+
+Necesito mi impermeable ahora! 
+Ich brauche jetzt meinen Regenmantel!
 
 Después del trueno, hay lluvia.
 Nach dem Donner, gibt es Regen. 
@@ -7223,7 +7231,7 @@ Wir steigen nie hier hinauf.
 Qué hermoso!
 Wie schön!
 
-Estan apagando la musica? 
+Estan apagando la musica ahora? 
 Machen sie gerade die Musik aus?
 
 Tengo razon, no? 
@@ -7370,7 +7378,7 @@ Ich werde die Wasserflasche öffnen.
 Salimos para la isla en media hora.
 Wir fahren in einer halben Stunde auf die Insel.
 
-Prefiero caminar por esta parque. 
+Prefiero caminar por este parque. 
 Ich bevorzuge es, in diesem Park spazieren zu gehen.
 
 Hay una cafetería por aquí?
@@ -7848,7 +7856,7 @@ Qué profesionales!
 Was für Profis!
 
 Y, ademas, son tan profesionales. 
-Und außerdem sind sie so professionell.
+Und ausserdem sind sie so professionell.
 
 Gracias por el apoyo.
 Danke für die Unterstützung.
@@ -7997,7 +8005,7 @@ Ich bin im Moment zu beschäftigt.
 Sí, me despierto a las cuatro.
 Ja, ich wache um vier Uhr auf.
 
-Te despierto temprano? 
+Te despiertas temprano? 
 Wachst du früh auf? 
 
 De hecho, estoy un poco frustrada. 
@@ -8831,16 +8839,19 @@ Nein, sie spielen nicht.
 Mira, está jugando ahí.
 Schau, er spielt gerade dort.
 
-Si! Ese es! Te quiero, perrito! Eres especial! 
-Ja! Das ist er! Ich liebe dich, Hündchen! Du bist besonders!
+Si! Ese es! Te quiero, perrito! 
+Ja! Das ist er! Ich liebe dich, Hündchen! 
+
+Eres especial! 
+Du bist besonders!
 
 Ese perro está jugando con los pájaros en el parque. ¿Es él?
 Der Hund, der mit den Vögeln im Park spielt - ist er das?
 
 No sé, a veces me preocupo.
-Ich weiss es nicht, manchmal mache ich mir Sorgen.
+Ich weiss nicht, manchmal mache ich mir Sorgen.
 
-Me preocupo porque eres especial.
+Me preocupo, porque eres especial.
 Ich mache mir Sorgen, weil du besonders bist. 
 
 Me preocupo, porque te quiero.
@@ -8855,14 +8866,23 @@ Schau, die Katzen spielen gerade mit der Nachbarin Lucy!
 Por que nunca cierras la puerta?
 Warum schliesst du nie die Tür ab?
 
-Guau, tu perrito tiene energía! ¡Corre sin parar!
-Wow, dein Hündchen hat Energie! Er rennt ununterbrochen!
+Guau, tu perrito tiene energía! 
+Wow, dein Hündchen hat Energie! 
 
-Tu perrita corre bastante, y nosotros también. ¡Estoy agotado!
-Dein Hündchen rennt genug und wir auch. Ich bin erschöpft!
+¡Corre sin parar!
+Er rennt ununterbrochen!
 
-Donde esta el senor Bigotes? A veces esta debajo de la cama.
-Wo ist Herr Bigotes? Manchmal ist er unter dem Bett.
+Tu perrita corre bastante, y nosotros también. 
+Dein Hündchen rennt genug und wir auch. 
+
+¡Estoy agotado!
+Ich bin erschöpft!
+
+Donde esta el senor Bigotes? 
+Wo ist Herr Bigotes? 
+
+A veces esta debajo de la cama.
+Manchmal ist er unter dem Bett.
 
 Quiero explorar esta zona a pie. 
 Ich will diese Gegend zu Fuss erkunden.
@@ -8915,7 +8935,7 @@ Ich bin sehr überrascht!
 Si abres la puerta, el perro se escapa.
 Wenn du die Tür öffnest, läuft der Hund weg.
 
-Empezamos a buscar soluciones.
+Empezamos a buscar soluciones?
 Sollen wir anfangen, Lösungen zu suchen?
 
 Esto, por ejemplo.
@@ -9055,5 +9075,2574 @@ Spazierst du viel in dieser Gegend?
 
 Disculpen, necesitamos ayuda. 
 Entschuldigen Sie, wir brauchen Hilfe.
+
+Mira, esta ahi! 
+Schau, es ist dort.
+
+Te preocupas demasiado!
+Du machst dir zu viele Sorgen!
+
+Estan jugando demasiado. 
+Sie spielen gerade zu viel.
+
+Mis gatos estan jugando bastante! 
+Meine Katzen spielen gerade genug.
+
+Eres un perrito muy estecial! 
+Du bist ein ganz besonderes kleines Hündchen!
+
+Eres mi mejor amigo! 
+Du bist mein bester Freund!
+
+Mi perrito es muy especial. 
+Mein Hündchen ist sehr besonders.
+
+Me alegro, te quiero. 
+Ich freue mich, ich liebe dich.
+
+Te quiero demasiado. 
+Ich liebe dich zu sehr!
+
+Por que te preocupas? 
+Warum machst du dir Sorgen?
+
+Me preocupo, porque te quiero. 
+Ich mache mir Sorgen, weil ich dich liebe.
+
+Perdone, pero estamos agotadas. 
+Entschuldigen Sie, aber wir sind erschöpft.
+
+Tu gaot esta jugando con esa gata. 
+Dein Kater spielt mit dieser Katze.
+
+Pues, no tenemeos mas tiempo. 
+Nun, wir haben keine Zeit mehr.
+
+Siempre corres demasiado.
+Du läufst immer zu viel.
+
+Tu gata esta debajo de ese arbol, ahi! 
+Deine Katze ist unter diesem Baum hier, dort!
+
+Te  quiero mas cada dia. 
+Ich liebe dich jeden Tag mehr.
+
+Siempre invitan a sus amigos.
+Sie laden immer ihre Freunde ein.
+
+No conozco a nadie aqui. 
+Ich kenne hier niemanden.
+
+Por que todo el mundo mira a mi perro? 
+Warum schauen alle auf meinen Hund?
+
+Conozco a un medico en esa clinica. 
+Ich kenne einen Arzt in dieser Klinik.
+
+Lo siento, estoy distraída hoy.
+Entschuldigung, ich bin heute etwas abgelenkt.
+
+No quiero ir al zoologico.
+Ich will nicht in den Zoo gehen.
+
+En serio necesito una cita?
+Brauche ich wirklich einen Termin? 
+
+Necesito una cita para mañana.
+Ich brauche einen Termin für morgen.
+
+Nos cepillamos los dientos. 
+Wir putzen uns die Zähne.
+
+Usted se cepilla los dientes ahora?
+Putzen Sie sich jetzt die Zähne?
+
+Usted se baña por la mañana?
+Baden Sie am Morgen?
+
+Por fin llegamos a Alemania.
+Endlich sind wir in Deutschland angekommen.
+
+Estoy en el pais equivocado. 
+Ich bin im falschen Land.
+
+Nuestro equipo trabaja bien.
+Unser Team arbeitet gut. 
+
+Hola, bienvenido!
+Hallo, willkommen!
+
+Cuantos clientes?
+Wie viele Kunden?
+
+La abogada nunca contesta mis correos electrónicos.
+Die Anwältin antwortet nie auf meine E-Mails.
+
+Normalmente ella trabaja muy bien.
+Normalerweise arbeitet sie sehr gut.
+
+Son activos?
+Sind sie aktiv?
+
+Mi maleta está en la estación de la capital?
+Mein Koffer ist auf dem Bahnhof in der Hauptstadt?
+
+Abren el fin de semana?
+Haben Sie an Wochenenden geöffnet?
+
+Prefieren este baile?
+Mögen Sie diesen Tanz?
+
+Solo tienen dos tipos de baile.
+Sie haben nur zwei Arten von Tanz.
+
+Entonces prefiero tomar la clase de salsa. 
+Also ich bevorzuge es, den Salsaunterricht zu nehmen.
+
+Me gusta esta actividad.
+Diese Aktivität mag ich.
+
+Si, la ciudad es mi destino.
+Ja, die Stadt ist mein Ziel.
+
+Una actividad relajante?
+Eine entspannende Tätigkeit?
+
+Aquellas maletas tienen mi nombre. 
+Jene Koffer tragen meinen Namen.
+
+No soy un chico activo. 
+Ich bin kein aktiver Junge.
+
+cinco empleados 
+fünf Angestellte
+
+Gracias, chicos, son muy generosos.
+Danke, Jungs, ihr seid sehr grosszügig.
+
+No quieres encontrar tu bolso?
+Willst du deine Tasche nicht finden?
+
+No son hombres activos. 
+Sie sind keine aktiven Männer.
+
+No, es la oficina de turismo. 
+Nein, das ist das Tourismusbüro.
+
+Mira, el tren esta en el anden. 
+Schau, der Zug ist am Bahnsteig.
+
+Si, abren el sabado. 
+Ja, sie öffnen am Samstag.
+
+Pero hay banos en el campamento. 
+Aber gibt es Badezimmer im Camp?
+
+Prefieren entrenar aqui. 
+Sie bevorzugen es, hier zu trainieren.
+
+Prefieren tomar clase aqui?
+Wollen Sie hier Unterricht nehmen?
+
+Quien en aquella persona? 
+Wer ist diese Person?
+
+La oficina de turismo abre tarde. 
+Das Tourismusbüro öffnet spät.
+
+Dolares o pesos?
+Dollar oder Pesos?
+
+Honestamente, si. 
+Ehrlich gesagt, ja.
+
+Mi gimnasio abre tarde.
+Mein Fitnessstudio öffnet spät.
+
+Es un tipo de baile. 
+Es ist eine Art von Tanz.
+
+Entrenan dos veces por dia? 
+Trainieren sie zweimal am Tag?
+
+Mira, la empleada esta alli.
+Schau, die Angestellte ist dort.
+
+Mi abuela es activa! 
+Meine Grossmutter ist aktiv!
+
+Este DJ es muy bueno!
+Dieser DJ ist sehr gut!
+
+Odio este ritmo.
+Ich hasse diesen Rhythmus!
+
+Te gusta jugar al ajedrez en un club?
+Spielst du Schach in einem Club?
+
+Adios, es medianoche!
+Auf Wiedersehen, es ist Mitternacht!
+
+El senor Gomez nunca hace nada. 
+Herr Gómez macht nie etwas.
+
+Si ,tenemos estres. 
+Ja, wir haben Stress.
+
+Son demasiado egoistas! 
+Sie sind zu egoistisch!
+
+A veces gritas demasiado. 
+Manchmal schreist du zu viel.
+
+Vamos a buscar en el patio, tal vez tu gato esta paseando fuera! 
+Lass uns im Hof suchen, vielleicht spaziert deine Katze draussen!
+
+Hay dos coches en el garaje, pero estan rotos. 
+Es gibt zwei Autos in der Garage, aber sie sind kaputt.
+
+Lo siento, soy lento y no me gusta correr. 
+Es tut mir leid, ich bin langsam und ich mag es nicht zu rennen.
+
+Mi moto no funciona bien, porque esta rota. 
+Mein Motorrad funktioniert nicht gut, weil es kaputt ist.
+
+Si los vecinos gritan mucho, cierro la ventana.
+Wenn die Nachbarn viel schreien, schliesse ich das Fenster.
+
+Estoy agotado y un poco preocupado. 
+Ich bin erschöpft und ein wenig besorgt.
+
+El taxista es rapido y habla poco. 
+Der Taxifahrer ist schnell und spricht wenig.
+
+Y si vamos en moto?
+Und wenn wir Motorrad fahren?
+
+Mi perrito es un animal muy pequeno. 
+Mein Hündchen ist ein sehr kleines Tier.
+
+Mi perrito es vieja y camina poco. 
+Mein Hündchen ist alt und spaziert langsam.
+
+Necesito caminar bastante, si quiero llegar al parque. 
+Ich muss ziemlich viel spazieren, wenn ich zum Park laufen möchte.
+
+Esta muy lechos! 
+Es ist sehr weit weg!
+
+Mira, tu gato esta jugando con una sandalia y esta muy entretenido. 
+Schau, deine Katze spielt gerade mit einer Sandale und ist sehr unterhaltsam.
+
+Que alivio, mi perrito es muy importante y especial! 
+Was für eine Erleichterung, mein Hündchen ist sehr wichtig und besonders!
+
+¡Discutimos demasiado!
+Wir diskutieren zu viel!
+
+Esta jugando con el perro? 
+Spielt er gerade mit dem Hund?
+
+No, no estan jugando. 
+Nein, sie spielen gerade nicht.
+
+Es un gato especial y muy amable. 
+Sie ist eine besondere und sehr freundliche Katze.
+
+Yo trabajo mucho y mi gato se escapa a menudo. 
+Ich arbeite viel und meine Katze läuft oft weg.
+
+Estoy muy preocupada! 
+Ich bin sehr besorgt!
+
+Mi gata esta muy estresada debajo de la cama, porque los vecinos gritan mucho. 
+Meine Katze ist sehr gestresst unter dem Bett, weil die Nachbarn viel schreien.
+
+Aquí está mi perro Frijol.
+Hier ist mein Hund Frijol.
+
+El es un mascota especial! 
+Er ist ein besonderes Haustier!
+
+Quiere encontrar algo. 
+Sie möchten etwas finden
+
+Mis perritos me escuchan bastante, pero hoy estan muy distraidos. 
+Meine Hündchen hören genug auf mich, aber heute sind sie sehr abgelenkt.
+
+Te quiero, eres un gato muy bonito! 
+Ich liebe dich, du bist eine sehr schöne Katze!
+
+Ahi, en el parque.
+Dort, im Park.
+
+Ay, estoy un poco preocupada. 
+Ahh, ich bin ein wenig besorgt.
+
+Estas trabajando sin parar. 
+Arbeitest du ununterbrochen?
+
+Si, mi perro cierra las puertas! 
+Ja, mein Hund schliesst die Türen!
+
+Si el gato come mucho, no se escapa.
+Wenn die Katze viel frisst, flieht sie nicht.
+
+Hola, me llamo Sofía, ¿y tú?
+Hallo, ich heisse Sofía, und du?
+
+¿Quieres surfear este fin de semana?
+Möchtest du dieses Wochenende surfen?
+
+Me encanta hacer deportes al aire libre.
+Ich liebe es, draussen Sport zu treiben.
+
+Vamos a caminar cerca del río.
+Wir gehen in der Nähe des Flusses spazieren.
+
+Tengo demasiados planes este domingo.
+Ich habe diesen Sonntag zu viele Pläne.
+
+Necesito espacio!
+Ich brauche Platz! 
+
+Hay mucho espacio en este parque y por eso practico futbol aqui. 
+Es gibt viel Platz in diesem Park hier, deshalb spiele ich hier Fussball.
+
+Sofía, ¿te gusta nadar?
+Soifa, magst du schwimmen? 
+
+Depende, al sur hay bastantes olas.
+Es kommt darauf an, im Süden gibt es viele Wellen.
+
+Que raro, no hay olas hoy.
+Wie seltsam, es gibt heute keine Wellen.
+
+
+
+
+Sofía, ¿qué te gusta hacer?
+Sofia, was machst du gerne? 
+
+Me llamo Sofía. Tú eres Miguel, ¿no?
+Mein Name ist Sofia. Du bist Miguel, richtig?
+
+Si! Mucho gusto! 
+Ja! Schön dich kennenzulernen.
+
+Sí, hace demasiado calor.
+Ja, es ist zu heiss. 
+
+Hoy hace demasiado frío, ¿no?
+Heute ist es zu kalt, nicht wahr?
+
+¡Guau, haces demasiado ejercicio!
+Wow, du machst zu viel Sport!
+
+El gimnasio tiene demasiados entrenadores.
+Das Fitnessstudio hat zu viele Trainer. 
+
+Por aquí hay demasiados perros.
+Hier gibt es zu viele Hunde. 
+
+¡Tengo demasiado calor en este parque!
+In diesem Park ist es mir zu heiss!
+
+¡Tengo demasiado frío aquí!
+Mir ist hier zu kalt!
+
+Tú y yo vamos al mismo gimnasio, ¿verdad?
+Du und ich gehen ins gleiche Fitnesstudio, richtig? 
+
+Si, yo soy entrenadora alli! 
+Ja, ich bin Trainerin hier!
+
+Tu entrenador viene hoy? 
+Kommt dein Trainer heute?
+
+Hay demasiados entrenadores en este gimnasio.
+Es gibt zu viele Trainer in diesem Fitnessstudio.
+
+Esta muy dulce. 
+Es ist sehr süss.
+
+Quiero el jugo de manzana. Aquel, por favor!
+Ich möchte den Apfelsaft. Den da, bitte!
+
+Necesitamos sandia y esta es grande.
+Wir brauchen Wassermelone und diese ist gross.
+
+Aquella es pasta alemana.
+Jene ist deutsche Pasta. 
+
+¿Por qué la fila es tan larga?
+Warum ist die Warteschlange so lang?
+
+Lo siento, solo tenemos una caja. 
+Es tut mir leid, wir haben nur eine Kasse.
+
+Nunca hay charcos alla. 
+Dort gibt es nie Pfützen.
+
+No necesitas un impermeable, hace sol. 
+Du brauchst keinen Regenmantel, es ist sonnig.
+
+Ya no estamos subiendo la montana. 
+Wir steigen den Berg gerade nicht mehr hinauf.
+
+El refugio es seguro y tenemos comida. 
+Der Unterschlupf ist sicher und wir haben Essen.
+
+
+Sí, aquella es una tarta de fresa.
+Ja, jene ist eine Erdbeertorte.
+
+Dónde está el pasillo con los productos chinos?
+Wo ist der Gang mit den chinesischen Produkten?
+
+Lo siento, ahora solo vendemos comida francesa. 
+Es tut mir leid, jetzt verkaufen wir nur französisches Essen.
+
+Los camarones son buenos para la paella?
+Sind Garnelen gut für Paella?
+
+durante el año
+während des Jahres 
+
+Leo bastante durante la semana. 
+Ich lese unter der Woche ziemlich viel.
+
+Si, al aire libre.
+Ja, im Freien.
+
+Durante las vacaciones, me encanta correr al aire libre con mi hijo. 
+Während der Ferien liebe ich es, im Freien mit meinem Sohn zu rennen!
+
+Practicas ciclismo?
+Übst du Radfahren? 
+
+Haces muchos deportes?
+Machen Sie viel Sport?
+
+Si, especialmente ciclismo. 
+Ja, besonders Radfahren.
+
+Sí, trotamos por la mañana también.
+Ja, wir joggen auch am Morgen.
+
+mucha música
+viel Musik 
+
+Tengo mucha energía en la mañana.
+Ich habe viel Energie am Morgen. 
+
+Este gimnasio tiene muchas bicicletas.
+Dieses Fitnessstudio hat viele Fahrräder.
+
+Yo siempre tomo mucha agua!
+Ich trinke immer sehr viel Wasser!
+
+Sí, tengo mucho tiempo.
+Ja, ich habe viel Zeit. 
+
+Hace mucho calor en verano. 
+Es ist sehr heiss im Sommer.
+
+Vamos a trotar juntos manana. 
+Wir werden morgen zusammen joggen gehen.
+
+No hago mucho ejercicio durante el invierno. 
+Ich treibe im Winter nicht viel Sport.
+
+Ella prefiere trotar por las mananas. 
+Sie bevorzugt es, morgens zu joggen.
+
+pocos dias
+wenige Tage
+
+Solo una vez por semana. 
+Nur einmal pro Woche?
+
+Quiero hacer pilates hoy.
+Ich möchte heute Pilates machen. 
+
+Sí! Hoy hace poco frío.
+Ja, heute ist es nicht zu kalt.
+
+En este lugar hay pocos instructores de pilates.
+An diesem Standort gibt es nur wenige Pilates-Lehrer.
+
+En este barrio hay pocos gimnasios.
+In diesem Viertel gibt es nur wenige Fitnessstudios.
+
+Tomas clases de natación?
+Nimmst du Schwimmunterricht? 
+
+Aquí hay pocos entrenadores de natación.
+Hier gibt es nur wenige Schwimmtrainer.
+
+Yo voy a la piscina un par de veces por semana. 
+Ich gehe ein paar Mal pro Woche ins Schwimmbad.
+
+Quieres venir?
+Möchtest du mitkommen?
+
+Claro, me encanta la natacion!
+Natürlich, ich liebe das Schwimmen!
+
+Pocas personas trotan hoy.
+Wenige Personen joggen heute.
+
+Hay pocas clases de natacion. 
+Es gibt wenig Schwimmunterricht.
+
+Voy a empezar clases de tenis.
+Ich werde mit Tennisunterricht beginnen. 
+
+Qué actividad física te gusta?
+Welche körperliche Aktivität magst du?
+
+Claro! El carate tambien es una actividad fisica! 
+Natürlich! Karate ist auch eine körperliche Aktivität!
+
+Yo hago poca actividad física.
+Ich mache wenig körperliche Aktivität.
+
+Yo tengo pocas clases de yoga este mes. 
+Ich nehme wenig Yoga-Kurse diesen Monat.
+
+Yo quiero trabajar pocas horas. 
+Ich möchte wenige Stunden arbeiten. 
+
+Cuando empiezan las clases de tenis? 
+Wann beginnen die Tennisstunden?
+
+Hay pocos lugares de pilates. 
+Es gibt wenige Pilatesstudios.
+
+Acampamos cerca del lago.
+Wir campen in der Nähe des Sees. 
+
+Exploramos un sendero nuevo.
+Wir erkunden einen neuen Pfad.
+
+Quieres caminar por el sendero conmigo?
+Möchtest du mit mir den Pfad entlanggehen? 
+
+Siempre vamos a trotar por la mañana.
+Wir gehen immer am Morgen joggen.
+
+Sí, tenemos bastante tiempo.
+Ja, wir haben genügend Zeit.
+
+Necesitamos llevar bastante agua también.
+Wir müssen auch genügend Wasser mitnehmen.
+
+Si, buena idea. Alli siempre hace mucho calor. 
+Ja, gute Idee. Dort ist es immer sehr heiss.
+
+Tengo bastantes amigos aquí.
+Ich habe viele Freunde hier.
+
+Tenemos bastantes cosas en comun. 
+Wir haben viele Dinge gemeinsam.
+
+Tú comes bastante sal en tus almuerzos!
+Du isst sehr viel Salz in deinem Mittagessen!
+
+Tú tienes bastantes amigos aquí!
+Du hast genug Freunde hier!
+
+En este club hay bastantes entrenadores de pilates.
+In diesem Club gibt es eine ganze Reihe von Pilates-Trainern.
+
+Me encanta ir a acampar en las montanas. 
+Ich liebe es, in den Bergen zelten zu gehen.
+
+Buene idea. Es un lugar hermoso. 
+Gute Idee. Das ist ein schöner Ort.
+
+¿Y si vamos a acampar cerca del lago?
+Und wenn wir in der Nähe des Sees campieren würden? 
+
+Nos encanta acampar! 
+Wir lieben es zu campen! 
+
+Este verano, acampamos en un bosque juntas!
+Diesen Sommer campen wir zusammen im Wald.
+
+Tengo bastante tarea!
+Ich habe viele Hausaufgaben!
+
+Aquí hay bastantes senderos lindos!
+Hier gibt es viele schöne Wanderwege!
+
+Aquí hay bastantes lagos!
+Hier gibt es viele Seen!
+
+Genial, ¡vamos a acampar en la montaña!
+Cool, gehen wir in die Berge zelten! 
+
+Tambien te gustan las caminatas? 
+Magst du auch Wanderungen?
+
+Nos vemos! 
+Bis nächstes Wochenende!
+
+Genial, nos vemos el sábado entonces!
+Cool, wir sehen uns dann am Samstag. 
+
+Vamos al sur? 
+Gehen wir in den Süden? 
+
+Ay, una ola enorme. 
+Ah, eine riesige Welle. 
+
+Depende, ¿a qué hora?
+Es kommt darauf an, um wie viel Uhr?
+
+Siempre surfeamos aquí.
+Wir surfen immer hier. 
+
+Aquí hay pocas olas.
+Hier gibt es wenige Wellen. 
+
+Depende, a veces hay demasiados animales. 
+Es kommt darauf an, manchmal gibt es zu viele Tiere.
+
+En realidad, allí hay demasiadas olas.
+In Wirklichkeit gibt es dort zu vielen Wellen. 
+
+Al sur hay bastantes playas. 
+Im Süden gibt es genug Strände.
+
+Hay bastantes cursos en esta escuela de yoga!
+In dieser Yogaschule gibt es eine ganze Reihe von Kursen!
+
+Si te gusta surfear, las olas de esa playa son magníficas.
+Wenn du gerne surfst, die Wellen von diesem Strand sind herrlich.
+
+Genial, pues no vemos alli manana. 
+Cool, nun, wir sehen uns morgen dort!
+
+En agosta vamos a surfear al sur de Francia! 
+Im August gehen wir in den Süden Frankreichs Surfen!
+
+Depende. Si no tengo trabajo, nos vemos! 
+Es kommt darauf an. Wenn ich keine Arbeit habe, sehen wir uns!
+
+Prefiero entrenar al aire libre. 
+Ich bevorzuge es, im Freien zu trainieren.
+
+No hago ejercicio, si hace mucho frio. 
+Ich treibe keinen Sport, wenn es sehr kalt ist.
+
+Este mes hace demasiado frio fuera y por eso solo entreno en el gimnasio. 
+Diesen Monat ist es zu kalt draußen und deswegen trainiere ich nur im Fitnessstudio.
+
+Manana empiezo pilates. 
+Morge beginne ich mit Pilates.
+
+Ah, yo voy a esas clases tres veces por semanan!
+Ah, ich gehe zu diesen Klassen hier drei Mal pro Woche!
+
+Hoy tengo demasiado trabajo!
+Heute habe ich zu viel zu tun!
+
+Siempre troto en estos senderos.
+Ich jogge immer auf diesen Pfaden.
+
+Me encanta hacer actividades fisica. 
+Ich liebe es, körperliche Aktivitäten zu machen.
+
+Claro, cuando hago mucho ejercicio, toma mucha aqua!
+Natürlich, wenn ich viel trainiere, trinke ich viel Wasser!
+
+Cuándo vas a empezar ciclismo?
+Wann wirst du mit dem Radfahren anfangen?
+
+Vas a correr esa carrera? 
+Wirst du dieses Rennen hier rennen? 
+
+Son demasiados kilómetros!
+Das sind zu viele Kilometer!
+
+Aquí hay más espacio.
+Hier hat es mehr Platz.
+
+Hay demasiados entrenadores y sol hay un gimnasio!
+Es gibt zu viele Trainer und nur ein Fitnessstudio!
+
+Necesito más espacio!
+Ich brauche mehr Platz!
+
+Sofía, ¿quieres tomar un café?
+Sofía, möchtest du einen Kaffee trinken?
+
+Sofia, que te gusta hacer?
+Sofía, was machst du gerne?
+
+Hay demasiados perros en el parque, pero tambien hay demasiado espacio para correr!
+Es gibt zu viele Hunde in dem Park, aber es gibt auch zu viel Platz zum rennen!
+
+Sofía es mi entrenadora.
+Sofia ist meine Trainerin.
+
+Bueno, sí, hago demasiado ejercicio. 
+Also, ja, ich trainiere zu viel. 
+
+¡Por eso tengo demasiados entrenadores!
+Deswegen habe ich zu viele Trainer!
+
+Prefiero comprar una cerveza fuerte. 
+Ich bevorzuge es, ein starkes Bier zu kaufen.
+
+Cuál es tu marca de leche favorita?
+Welches ist dein favorisierte Milchmarke?
+
+Es un poco cara, pero me encanta esta. 
+Es ist ein bisschen teuer, aber ich liebe diese.
+
+Esta nublado hoy. 
+Es ist heute bewölkt.
+
+Estamos corriendo en la nieve. 
+Wir laufen gerade im Schnee!
+
+Que alivio, estamos en el refugio. 
+Was für eine Erleichterung, wir sind im Unterschlupf.
+
+Es un director italiano.
+Er ist ein italienischer Regisseur.
+
+La directora es argentina. 
+Die Regisseurin ist Argentinierin.
+
+La protagonista es una actriz chilena. 
+Die Hauptdarstellerin ist eine chilenische Schauspielerin.
+
+Las cremas están ahí.
+Die Sahne ist dort. 
+
+También venden cepillos?
+Verkaufen Sie auch Bürsten? 
+
+Durante el verano, practico tenis.
+Während des Sommers spiele ich Tennis.
+
+Quieres trotar conmigo manana? 
+Willst du morgen mit mir joggen?
+
+Ahora mucha gente hace ciclismo. 
+Jetzt fahren viele Leute Rad.
+
+Si quieres practicar ciclismo, necesitas mucha energia. 
+Wenn du Radfahren üben willst brauchst du mehr Energie.
+
+Trotas a menudo?
+Joggst du oft? 
+
+Haces mucho ejercicio al aire libre?
+Trainierst du viel im Freien?
+
+En serio les gusta el ciclismo? 
+Mögt ihr wirklich Radfahren?
+
+Mi deporte favorito es ciclismo. 
+Mein Lieblingssport ist Radfahren.
+
+Tengo mucha energia, cuando troto. 
+Ich habe viel Energie, wenn ich jogge!
+
+Juegan al tenis de mesa al aire libre.
+Sie spielen Tischtennis im Freien. 
+
+Hay pocos instructores de natación, ¿no?
+Es gibt wenige Schwimmlehrer, nicht wahr? 
+
+Tengo clases de natacion manana. 
+Ich habe morgen Schwimmunterricht.
+
+Después de pilates, me siento bien.
+Nach Pilates fühle ich mich gut. 
+
+Cuando vienen pocas personas, abren el gimnasio pocos dias por semana. 
+Wenn wenige Menschen kommen, öffnen sie das Fitnessstudio wenige Tage pro Woche.
+
+La actividad física es saludable.
+Körperliche Aktivität ist gesund. 
+
+Guau, tienes bastante energia hoy! 
+Wow, du hast heute viel Energie!
+
+Tu conoces bien esos senderos?
+Kennst du diese Wege gut? 
+
+Hay bastantes lagos increibles por aqui. 
+Es gibt genug unglaubliche Seen hier.
+
+Tengo bastante experiencia como entrenador. 
+Ich habe genügend Erfahrung als Trainer.
+
+Tengo bastante energia y subo bastantes montanas!
+Ich habe genügend Energie und steige genügend Berge hinauf!
+
+Me gusta el ciclismo en la ciudad, pero prefiero montar en bicicleta cerca de la naturaleza. 
+Ich fahre gerne in der Stadt, aber am liebsten in der Nähe der Natur. 
+
+Y pronto voy a explorar al norte.
+Und bald werde ich den Norden erkunden.
+
+Este sendero es muy estrecho. 
+Dieser Pfad ist sehr schmal.
+
+Ademas, hay muchas montanas. 
+Ausserdem gibt es viele Berge.
+
+Surfeas muy bien! 
+Du surfst sehr gut!
+
+Vamos a surfear este sábado.
+Wir gehen diesen Samstag surfen. 
+
+En esa playa hay muchas olas!
+An diesem Strand gibt es viele Wellen! 
+
+Nos vemos a las cinco. 
+Wir sehen uns um fünf Uhr.
+
+Nos vemos manana? 
+Sehen wir uns morgen?
+
+El mar es magnifico al sur de mi pueblo. 
+Das Meer ist grossartig im Süden meines Dorfes.
+
+Mira, hay bastantes olas. 
+Schau, es gibt ziemlich viele Wellen.
+
+Haces bastante actividad física!
+Du machst genügend körperliche Aktivität! 
+
+Aquí hay bastantes montañas. 
+Hier gibt es genügend Berge. 
+
+¿Quieres subir?
+Willst du hinaufsteigen?
+
+A veces hago pocas actividades fisica, porque entrano pocos dias. 
+Manchmal mache ich wenige körperliche Aktivitäten, weil ich wenige Tage trainiere.
+
+A veces vengo con mi entrenadora. 
+Manchmal komme ich mit meiner Trainerin.
+
+Tienens demasiados pasatiempos! 
+Du hast zu viele Hobbys!
+
+Pocas personas surfean aqui.
+Wenige Personen surfen hier.
+
+No hay muchos productos. 
+Es gibt nicht viele Produkte.
+
+Quiero un pimiento, pero ese es picante. 
+Ich will eine Paprika, aber diese ist scharf.
+
+Bueno, quiero esos de ahí.
+Also, ich möchte jene da drüben. 
+
+Comemos por aqui?
+Essen wir hier?
+
+Van dos veces por mes? 
+Gehen Sie zweimal im Monat?
+
+Quiero ir dos veces por dia. 
+Ich möchte zweimal am Tag gehen.
+
+Oye, hay un banco por aquí?
+Hey, gibt es hier in der Nähe eine Bank?
+
+Toman el avión cada fin de semana.
+Sie nehmen das Flugzeug jedes Wochenende.
+
+Ah, es otro código postal!
+Ah, das ist eine andere Postleitzahl! 
+
+Por suerte vamos en avion. 
+Zum Glück fliegen wir.
+
+Necesito hacer la compra.
+Ich muss einkaufen. 
+
+Por qué no están de acuerdo?
+Warum sind sie nicht einverstanden? 
+
+No se duchan antes de la fiesta?
+Duschen Sie sich nicht vor der Party? 
+
+Se duchan el viernes. 
+Sie duschen sich am Freitag.
+
+Necesito comprar una estampilla.
+Ich muss eine Briefmarke kaufen. 
+
+Mi compañera de trabajo va allí a pie.
+Meine Arbeitskollegin geht zu Fuss dorthin. 
+
+Cuanto cuesta una estampilla aqui?
+Wie viel kostet hier eine Briefmarke?
+
+No limpian el apartamento tampoco?
+Putzen sie die Wohnung auch nicht?
+
+Siempre compra coches caros. 
+Er kauft immer teure Autos.
+
+Regresa los lunes. 
+Er kommt montags zurück.
+
+Son muy impacientes!
+Sie sind sehr ungeduldig!
+
+Hay una caja en el buzon?
+Ist eine Kiste im Briefkasten?
+
+Porque el limpia muchas veces la cocina. 
+Weil er die Küche oft putzt.
+
+Su novio es mexicano, ¿no?
+Ihr Freund ist Mexikaner, nicht wahr?
+
+Ay, no sé.
+Ahh, ich weiss nicht.
+
+Son maleducados?
+Sind sie unhöflich?
+
+Pero ella escribe hasta las tres. 
+Aber sie schreibt bis drei Uhr.
+
+Ella siempre lee novelas mexicanas. 
+Sie liest immer mexikanische Romane.
+
+Pablo no usa gorra hoy. 
+Pablo benutzt heute keine Baseballmütze.
+
+Naturalmente, pero es muy maleducado.
+Natürlich, aber er ist sehr unhöflich.
+
+muchas actrices
+viele Schauspielerinnen
+
+Si, se duchan rapido!
+Ja, sie duschen sich schnell!
+
+Ustedes se bañan todas las tardes?
+Baden Sie sich jeden Nachmittag?
+
+Tiene el nombre de la remitente? 
+Haben Sie den Namen der Absenderin?
+
+Nuestros amigos son actores. 
+Unsere Freunde sind Schauspieler.
+
+Haces mucho ejercicio en este parque? 
+Treibst du viel Sport in diesem Park?
+
+Guau, ¡tienes mucha energía!
+Wow, du hast viel Energie!
+
+Hay demasiado espacio!
+Es gibt zu viel Platz!
+
+Veo demasiados coches. 
+Ich sehe zu viele Autos.
+
+Sofia es mi entrenadora. 
+Sofía ist meine Trainerin.
+
+Practicamos ciclismo en el parque. 
+Wir fahren Rad im Park.
+
+Ella quiere acampar en la montana. 
+Sie will in den Bergen campen.
+
+Quiero ir a nadar en el lago. 
+Ich möchte im See schwimmen gehen.
+
+Hay muchos senderos, ¿no?
+Es gibt viele Wege, nicht wahr?
+
+Tengo bastante energia! 
+Ich habe genügend Energie!
+
+Si, dos veces por semana. 
+Ja, zweimal pro Woche.
+
+Surfeo todos los dias, porque me encanta el agua. 
+Ich surfe jeden Tag, weil ich das Wasser liebe.
+
+Nos vemos, Sofía!
+Bis bald, Sofia!
+
+Ah, el es Juan, mi entrenador.
+Ah, er ist Juan, mein Trainer.
+
+Mi hermano ensena natacion. 
+Mein Bruder unterrichtet Schwimmen.
+
+Quiero empezar clases de karate. 
+Ich möchte mit dem Karateunterricht beginnen.
+
+Practico doportes durante el verano. 
+Ich treibe Sport während des Sommers.
+
+Mira, el rio tiene bastante agua.
+Schau, der Fluss hat genügend Wasser.
+
+Guau, haces bastante actividad fisica!
+Wow, du machst ziemlich viel Sport!
+
+Vamos a surfear juntos. 
+Wir gehen zusammen surfen.
+
+Duo quiere participar en una carrera, y ahora Eddy es su entrenador! 
+Duo will an einem Rennen teilnehmen, und jetzt ist Eddy sein Trainer.
+
+Me encanta entrenar, ¡es mi vida! 
+Ich liebe Training, es ist mein Leben!
+
+Por ejemplo, practico natación y vóleibol. 
+Zum Beispiel, schwimme ich und ich spiele Volleyball.
+
+Pero nunca hago pilates porque es difícil y un poco aburrido.
+Aber ich mache nie Pilates, weil es schwierig und ein bisschen langweilig ist.
+
+Cuando tengo mucha energia, hago mucho ejercicio! 
+Wenn ich viel Energie habe, mache ich viel Sport!
+
+Quiero empezar yoga ahora mismo! 
+Ich möchte jetzt sofort mit Yoga beginnen!
+
+Quiero surfear mas esta ano. 
+Ich will dieses Jahr mehr surfen.
+
+Tienen bastantes amigos en comun.
+Sie haben viele gemeinsame Freunde.
+
+Si están despiertos, ¿quieren jugar?
+Wenn sie wach sind, wollen sie spielen?
+
+Estoy en una videollamada.
+Ich bin in einer Videokonferenz.
+
+¿Cuántas horas necesitas dormir?
+Wie viele Stunden musst du schlafen?
+
+Me gustan los videojuegos y juego a menudo.
+Ich mag Videospiele und spiele oft.
+
+Voy a dormir, buenas noches.
+Ich gehe schlafen, gute Nacht.
+
+Vives en Europa?
+Lebst du in Europa?
+
+El videojuego es muy popular en Europa. 
+Das Videospiel ist sehr beliebt in Europa.
+
+Todavía estoy despierta.
+Ich bin noch wach.
+
+Seguramente está cansada.
+Sie ist sicherlich müge. 
+
+Sofía está despierta?
+Sofia ist wach?
+
+No ,seguramente ya esta en la cama. 
+Nein, sie ist sicherlich schon im Bett.
+
+No usa las redes sociales.
+Er benutzt keine sozialen Netzwerke. 
+
+Mira! Hay una foto de Paula en las redes sociales.
+Schau! Es gibt ein Foto von Paula in den sozialen Netzwerken.  
+
+¡Ella está visitando los Estados Unidos!
+Sie besucht gerade die USA!
+
+Me gusta jugar en Internet.
+Ich spiele gerne im Internet.
+
+Seguramente no quieren jugar. 
+Sie wollen sicherlich nicht spielen.
+
+Nosotros no jugamos a menudo.
+Wir spielen nicht oft.
+
+Nosotros no queremos jugar ahora.
+Wir wollen jetzt nicht spielen.
+
+Nosotros queremos jugar luego.
+Wir wollen später spielen.
+
+Juego y luego estudio.
+Ich spiele und dann lerne ich.
+
+Siempre juego por la noche.
+Ich spiele immer nachts.
+
+Yo no necesito jugar.
+Ich brauche nicht zu spielen.
+
+Pero yo juego a menudo.
+Aber ich spiele oft. 
+
+Yo juego en la computadora.
+Ich spiele am Computer.
+
+Juego mejor, cuando estoy tranquila.
+Ich spiele besser, wenn ich ruhig bin. 
+
+Claro estoy despierto. 
+Natürlich bin ich wach.
+
+Que hora es en Europa? 
+Wie spät ist es in Europa?
+
+Quiero dormir.
+Ich will schlafen.
+
+un lugar oscuro
+ein dunkler Ort.
+
+En mi país ya está oscuro. 
+In meinem Land ist es schon dunkel. 
+
+Ich spiele nicht so spät in der Nacht!
+¡Y yo no juego tan tarde por la noche!
+
+Vivo en Sudamérica.
+Ich lebe in Südamerika.
+
+Tengo amicos en Sudamerica. 
+Ich habe Freunde in Südamerika.
+
+¿Vives en el extranjero?
+Lebst du im Ausland? 
+
+Vives en Sudamerica? 
+Lebst du in Südamerika?
+
+Tengo un amigo en el extranjero.
+Ich habe einen Freund im Ausland. 
+
+Allá son las ocho de la tarde, ¡pero aquí es la una de la mañana!
+Dort drüben ist es acht Uhr abends, aber hier ist es ein Uhr morgens!
+
+Ah, si. Estas en el extranjero! 
+Ah, ja. Du bist im Ausland!
+
+Conoces a alguien en el extranjero?
+Kennst du jemanden im Ausland? 
+
+Sí, duermo durante el día.
+Ja, ich schlafe währen des Tages.
+
+Duermo tarde los fines de semana.
+Ich schlafe bis spät am Wochenende.
+
+Necesito dormir diez horas.
+Ich muss zehn Stunden schlafen.
+
+Yo duermo mucho.
+Ich schlafe viel. 
+
+Y yo duermo a las siete. 
+Und ich schlafe um sieben. 
+
+Esta oscuro todavia en tu ciudad? 
+Ist es noch dunkel in deiner Stadt?
+
+No es una serie colombiana. 
+Es ist keine kolumbianische Serie.
+
+En general este actor es bueno. 
+Im Allgemeinen ist dieser Schauspieler gut.
+
+Qué libros leen en el club?
+Welche Bücher lesen sie im Club?
+
+Ella es ciclista, pero su bicicleta está rota.
+Sie ist Radfahrerin, aber ihr Fahrrad ist kaputt.
+
+Por que tu no le prestas esa? 
+Warum leihst du ihr nicht dieses hier?
+
+Es extrano. No tengo hambre. 
+Es ist seltsam. Ich bin nicht hungrig.
+
+Por que tu no le ensenas el barrio? 
+Warum zeigst du ihm nicht das Stadtviertel?
+
+Señora, le doy nuestra información.
+Madame, ich gebe Ihnen unsere Informationen.
+
+Entonces vamos al zoologico?
+Dann lass uns in den Zoo gehen?
+
+Quien quiere explorar ese barrio. 
+Wer will diesen Stadtteil erkunden?
+
+Este tour es muy popular.
+Diese Tour ist sehr beliebt. 
+
+La iglesia organiza un festival. 
+Die Kirche organisiert ein Festival.
+
+Donde es la carrera? 
+Wo ist das Rennen?
+
+Nuestro jardin tiene arboles. 
+Unser Garten hat Bäume.
+
+Esa estatua es un monumento importante de la ciudad. 
+Diese Statue ist ein wichtiges Monument der Stadt.
+
+Hay mucho ruido. 
+Es gibt viel Lärm. 
+
+Qi, quiero jugar, pero no quiero hacer ruido, porque mi hermana duerme. 
+Ja, ich will spielen, aber ich will keinen Lärm machen, weil meine Schwester schläft.
+
+Por que hay ruido? 
+Warum gibt es Lärm? 
+
+Mas de diez horas? 
+Mehr als 10 Stunden?
+
+Cuántos personajes hay en el nuevo videojuego?
+Wie viele Figuren gibt es in dem neuen Videospiel?
+
+Mas de veinte! 
+Mehr als 20! 
+
+Juegas en la madrugada? 
+Spielst du früh morgens?
+
+Juegas mas de dos horas? 
+Spielst du mehr als zwei Stunden?
+
+Duermes más de siete horas normalmente?
+Schläfst du normalerweise mehr als sieben Stunden?
+
+No, mis vecinos hacen mucho ruido en la madrugada. 
+Nein, meine Nachbarn machen früh morgens viel Lärm.
+
+Tú juegas más de ocho horas.
+Due spielst mehr als 8 Stunden. 
+
+Tu juegas mucho!
+Du spielst viel!
+
+Juega hasta la madrugada!
+Spiele bis in die frühen Morgenstunden!
+
+Mi amigo solo juega en la madrugada. 
+Mein Freund spielt nur früh morgens.
+
+Seguramente juega hasta la madrugada.
+Er spielt sicherlich bis in die frühen Morgenstunden.
+
+Mi personaje salta. 
+Meine Figur springt.
+
+Guau, ella juega mas de seis horas! 
+Wow, sie spielt mehr als sechs Stunden!
+
+Que hace tu personaje? 
+Was macht deine Figur?
+
+Duermes tarde?
+Schläfst du spät? 
+
+Tu duermes mucho?
+Du schläfst viel?
+
+Seguramente duerme.
+Er schläft sicherlich. 
+
+Y ademas, no hay ascensor aqui? 
+Und ausserdem, gibt es hier keinen Aufzug?
+
+Ella duerme poco a veces. 
+Sie schläft manchmal wenig.
+
+Ella duerme más de doce horas.
+Sie schläft mehr als zwölf Stunden.
+
+Hay tecnología nueva.
+Es gibt neue Technologien. 
+
+Te gusta la tecnología nueva?
+Magst du die neue Technologie? 
+
+Entonces tienes dos computadoras, tres tabletas y cuatro celulares?
+Sie haben also zwei Computer, drei Tablets und vier Mobiltelefone?
+
+Pues si. Me encanta la tecnologia en general! 
+Nun ja. Generell liebe ich die Technologie!
+
+El wifi es muy lento.
+Das WLAN es muy lento. 
+
+Eres tan competitiva!
+Du bist so kompetitiv!
+
+Guau, eres muy buena en este videojuego!
+Wow, du bist sehr gut in diesem Viedospiel! 
+
+Si. Soy bastante competitiva, en general. 
+Ja. Ich bin ziemlich kompetetiv, generell.
+
+Pablo va a jugar ahora mismo el nuevo videojuego de fantasía!
+Pablo wird jetzt gleich das neue Fantasy-Videospiel spielen!
+
+Duermes, si no hay wifi? 
+Schläfst du, wenn es kein WLAN gibt?
+
+Esta sabado Luis por fin hace una videollamada con su novia! 
+Diesen Samstag macht Luis endlich einen Videoanruf mit seiner Freundin!
+
+Hay un nivel nuevo!
+Es gibt eine neue Ebene! 
+
+El personaje es un adolescente.
+Die Figur ist ein Jugendlicher. 
+
+Duermo mucho, porque soy adolescente.
+Ich schlafe viel, weil ich ein Jugendlicher bin.
+
+Ya no soy adolescente y no tengo mucho tiempo para videojuegos.
+Ich bin kein Teenager mehr und habe nicht viel Zeit für Videospiele.
+
+Buneo, pero todavia juegas a veces, no? 
+Also, aber du spielst immer noch manchmal, nicht wahr?
+
+Hay mucha información en los foros.
+In den Foren gibt es viele Informationen.
+
+Uso mucho los foros. 
+Ich benutze die Foren viel.
+
+A veces termina de jugar en la madrugada.
+Manchmal hört er früh morgens auf zu spielen.
+
+Siempre leo los foros de videojuegos. 
+Ich lese immer die Foren von Videospielen.
+
+Cuándo terminan de jugar?
+Wann hören sie auf zu spielen? 
+
+A que hora terminas de trabajar? 
+Um wie viel Uhr hörst du auf zu arbeiten?
+
+Hay diez niveles en el videojuego. 
+Es gibt zehn Level in dem Videospiel.
+
+Juego doe niveles cada dia. 
+Ich spiele jeden Tag zwei Level.
+
+Ana y Paula juegan este videojuego sin parar, porque son muy competitivas!
+Ana und Paula spielen dieses Videospiel ununterbrochen, weil sie sehr kompetitiv sind!
+
+Este es un foro nuevo.
+Dies ist ein neues Forum.
+
+Es un poco tarde en Europa. 
+Es ist ein bisschen spät in Europa. 
+
+Seguramente Luis ya esta en su cama. 
+Sicherlich ist Luis schon im Bett.
+
+El foro tiene las respuestas. 
+Das Forum hat die Antworten.
+
+Algo esta mal con el wifi de Luis?
+Ist etwas nicht in Ordnung mit dem WLAN von Luis? 
+
+Por que no esta en linea? 
+Warum ist er nicht online?
+
+Prefiero jugar otro dia. 
+Ich bevorzuge es, an einem anderen Tag zu spielen.
+
+Me encanta el personaje de este videojuego! 
+Ich liebe die Figur von diesem Videospiel! 
+
+Es de una serie famosa.
+Sie ist aus einer berühmten Serie.
+
+Yo nunca juego en la computadora.
+Ich spiele nie am Computer.
+
+Prefiero leer antes de dormir. 
+Ich bevorzuge es, vor dem Schlafen zu lesen.
+
+Si hay mucho ruido, no duerme. 
+Wenn es viel Lärm gibt, schläft er nicht.
+
+Por qué está tan oscura tu casa?
+Warum ist dein Haus so dunkel?
+
+Ah, is. Aqui ya es medianoche! 
+Ah, ja. Hier ist es schon Mitternacht!
+
+Eres muy competitivo, por eso tu nunca duermes bien! 
+Du bist sehr kompetitiv, deswegen schläfst du nie gut!
+
+Todavía no terminamos de pasar este nivel!
+Wir sind mit diesem Level noch nicht durch!
+
+Necesitamos jugar este sabado! 
+Wir müssen diesen Samstag spielen!
+
+No uso las redes sociales, pero juego a menudo en linea. 
+Ich benutze keine sozialen Netzwerke, aber ich spiele oft online.
+
+Quiero jugar, pero Juan no está despierto ahora. 
+Ich will spielen, aber Juan ist jetzt nicht wach. 
+
+Qué pena, yo juego solo.
+Wie schade, ich spiele alleine.
+
+El wifi es muy lento. 
+Das WLAN ist sehr langsam.
+
+Termino de hacer la videollamada con el señor Bigotes y juego con Ana en línea.
+Ich habe aufgehört einen Videoanruf mit Herrn Bigotes zu machen und ich spiele mit Ana online.
+
+Normalmente, juego todos los días. 
+Normalerweise spiele ich jeden Tag.
+
+Y, cuando no juego, leo sobre juegos. 
+Und wenn ich nicht spiele, lese ich über Spiele.
+
+Los videojuegos y la tecnología son mis pasatiempos favoritos!
+Videospiele und Technik sind meine Lieblingshobbys!
+
+Quieres mi opinion sobre el libro?
+Willst du meine Meinung zu dem Buch hören?
+
+Si, especialmente sobre el final. 
+Ja, besonders über das Ende.
+
+Ella te da su opinion?
+Sie sagt dir ihre Meinung?
+
+Claro. Especialmente sobre los libros. 
+Natürlich. Besonders über die Bücher.
+
+Es mentira, me encanta la pelicula. 
+Das ist gelogen, ich liebe den Film.
+
+Seguramente esta despierto. 
+Er ist sicherlich wach.
+
+Seguramente juego con ella mañana.
+Ich spiele sicherlich morgen mit ihr.
+
+Seguramente no quiere hablar.
+Er will sicherlich nicht sprechen.
+
+Quiero jugar con amigos de Europa. 
+Ich möchte mit Freunden aus Europa spielen.
+
+Por que no usas las redes sociales?
+Warum benutzt du keine sozialen Netzwerke?
+
+Lucia, hoy yo juego a las ocho.
+Lucía, ich spiele heute um acht Uhr. 
+
+Quieres jugar? 
+Willst du spielen?
+
+Guau, hay muchas fotos sobre el videojuego nuevo en las redes sociales. 
+Wow, es gibt eine Menge Bilder über das neue Videospiel in den sozialen Medien. 
+
+Miguel, ¿tú usas las redes sociales a menudo?
+Miguel, nutzt du die sozialen Medien oft?
+
+Habla sobre un pasatiempo. 
+Er spricht über ein Hobby.
+
+Yo vivo en México, pero tengo muchos amigos en Europa, por eso juego normalmente por la mañana. 
+Ich lebe in Mexiko, aber ich habe viele Freunde in Europa, deshalb spiele ich meistens morgens. 
+
+Cuando juego por la noche, hay poca gente.
+Wenn ich nachts spiele, sind nur wenige Leute da.
+
+Sí, estoy despierto en la cama.
+Ja, ich bin wach im Bett. 
+
+Voy a dormir temprano.
+Ich gehe früh schlafen.
+
+Duermo tarde, cuando juego videojuegos. 
+Ich schlafe lange, wenn ich Videospiele spiele.
+
+Tengo amigos en Sudamérica.
+Ich habe Freunde in Südamerika. 
+
+Si mi cuarto ne esta oscuro, yo no duermo bien. 
+Wenn mein Zimmer nicht dunkel ist, schlafe ich nicht gut.
+
+Vivo en el extranjero, y cuando tu estas en linea, yo duermo. 
+Ich lebe im Ausland und wenn du online bist, schlafe ich.
+
+Estas en Sudamerica? 
+Bist du in Südamerika?
+
+Solo duermo por la manana. 
+Ich schlafe nur am Morgen.
+
+Ahora vivo en Sudamerica. 
+Jetzt lebe ich in Südamerika. 
+
+Necesito dormir, pero si no está oscuro, yo no duermo bien.
+Ich muss schlafen, aber wenn es nicht dunkel ist, schlafe ich nicht gut.
+
+Paula, lo siento. Ahora mismo no quiero jugar. 
+Paula, es tut mir leid. Ich habe jetzt keine Lust zu spielen. 
+
+Estoy cansada y necesito dormir. 
+Ich bin müde und muss schlafen. 
+
+Además, mi cuarto está muy oscuro, y mi cama está esperando.
+Ausserdem ist mein Zimmer sehr dunkel, und mein Bett wartet.
+
+La chica quiere descansar. 
+Das Mädchen will sich ausruhen.
+
+Juego mas de una hora todos los dias. 
+Ich spiele jeden Tag mehr als eine Stunde.
+
+Esta agotado, porque juega mucho! 
+Er ist erschöpft, weil er viel spielt!
+
+No juegas, porque hay ruido?
+Spielst du nicht, weil es Lärm gibt?
+
+Juega hasta la madrugada! 
+Spiele bis früh morgens!
+
+En serio? Tu juegas mas de seis horas? 
+Im Ernst? Du spielst mehr als sechs Stunden?
+
+Cuando tu juegas en la madrugada, yo no estoy despierta. 
+Wenn du früh morgens spielst, bin ich nicht wach.
+
+Quieres jugar en la tarde? 
+Willst du nachmittags spielen?
+
+Mas de diez horas? 
+Mehr als zehn Stunden?
+
+Entonces tu gusta jugar mucho, porque siempre juegas hasta la madrugada. 
+Also du magst es, viel zu spielen, weil du immer bis früh morgens spielst.
+
+Qué es ese ruido?
+Was ist das für ein Lärm? 
+
+Es complicado y competitivo. 
+Es ist kompliziert und kompetitiv.
+
+Si está estresada, duerme.
+Wenn sie gestresst ist, schläft sie. 
+
+Mi wifi esta muy lento hoy. 
+Mein WLAN ist heute sehr langsam.
+
+Tu duermes ahora, porque tu wifi no funciona? 
+Schläfst du gerade, weil dein WLAN nicht funktioniert?
+
+Hablo mucho sobre tecnologia, por eso tu duermes. 
+Ich spreche viel über Technologie, deswegen schläfst du.
+
+Sí, ¡ese juego de fantasía es mi videojuego favorito! 
+Ja, dieses Fantasy-Spiel ist mein Lieblingsvideospiel! 
+
+Quiero jugar ahora mismo, pero tengo un problema. 
+Ich möchte es jetzt spielen, aber ich habe ein Problem. 
+
+Mi mamá apaga el wifi por la noche.
+Meine Mutter schaltet nachts das WLAN aus.
+
+En este momento no tiene Internet. 
+Zurzeit gibt es kein Internet.
+
+Duermes o estas despierto?
+Schläfst du oder bist du wach?
+
+Si usas tecnologia por la noche, no vas a dormir.
+Wenn du nachts Technologie benutzt, wirst du nicht schlafen. 
+
+Y cuando no duermes, te sientes mal!
+Und wenn du nicht schläfst, fühlst du dich schlecht!
+
+Yo juego y tu duermes! 
+Ich spiele und du schläfst!
+
+Este nivel es bastante difícil.
+Dieses Level ist ziemlich schwierig. 
+
+Mis amiogs son adolescentes. 
+Meine Freunde sind Jugendliche.
+
+Nosotros terminamos de comer a las ocho.
+Wir hören um acht Uhr auf zu Essen.
+
+Quiero hacer una videollamada, pero mi tableta no funciona. 
+Ich will einen Videoanruf machen, aber mein Tablet funktioniert nicht.
+
+Ay, honestamente, no me gusta jugar con adolescentes porque son demasiado competitivos. 
+Ehrlich gesagt, spiele ich nicht gerne mit Teenagern, weil sie zu wettbewerbsorientiert sind. 
+
+Además, yo soy bastante mala, y prefiero jugar sola.
+Ausserdem bin ich ziemlich fies und spiele lieber allein.
+
+Quiero hacer una videollamada.
+Ich möchte einen Videoanruf machen.
+
+Hay mucha informacion en los foros. 
+Es gibt viele Informationen in den Foren.
+
+Duermes bastante?
+Schläfst du genug?
+
+En serio, juegas mas de cinco horas? 
+Spielst du im Ernst mehr als fünf Stunden? 
+
+Te gusta jugar mucho entonces?
+Du magst es also, viel zu spielen?
+
+Es un foro para adolescentes. 
+Es ist ein Forum für Jugendliche.
+
+Seguramente juego con Sofia.
+Ich spiele heute sicherlich mit Sofía.
+
+Le encanta jugar! 
+Sie liebt es, zu spielen!
+
+Cual es tu personaje favorito?
+Welche ist deine Lieblingsfigur?
+
+Me encanta jugar. 
+Ich liebe es, zu spielen. 
+
+Yo juego todos los dias! 
+Ich spiele jeden Tag!
+
+Voy a dormir, porque el wifi no funciona. 
+Ich werde schlafen, weil das WLAN nicht funktioniert.
+
+Tu no duermes todavia? 
+Schläfst du immer noch nicht?
+
+Ahora vivo en el extranjero. 
+Jetzt lebe ich im Ausland.
+
+Practica karate en su tiempo libre?
+Trainiert er Karate in seiner Freizeit?
+
+Y los trajes de bano?
+Und die Badekleidung? 
+
+el karate y el beisbol
+Karate und Baseball 
+
+En realidad, tengo muchos trajes de baño.
+In Wirklichkeit habe ich viel Badekleidung.
+
+Esta asustado. 
+Er ist verängstigt. 
+
+Él va a hacer la maleta.
+Er wird den Koffer packen. 
+
+Hay gente en la pista de baile?
+Gibt es Leute auf der Tanzfläche?
+
+Mira, no hay nadie en la pista de baile! ¿Bailamos?
+Sieh mal, es ist niemand auf der Tanzfläche! Sollen wir tanzen?
+
+Oye, yo bailo muy mal. Lo siento. 
+Hey, ich tanze sehr schlecht. Es tut mir leid.
+
+Cuántos años cumple Miguel?
+Wie alt ist Miguel?
+
+Treinta, no? 
+Dreissig, nicht wahr?
+
+Ahora estan apagando las luces. 
+Jetzt gerade machen sie das Licht aus.
+
+Siempre apagan las luces a las dos de la manana. 
+Sie machen das Licht immer um zwei Uhr morgens aus.
+
+Alguien va a anotar la idea?
+Wird jemand die Idee aufschreiben?
+
+Estoy gritando porque no escucho nada.
+Ich schreie, weil ich nichts hören kann.
+
+los guias
+die Reiseleiter
+
+Vas a ir con un guia?
+Wirst du mit einem Reiseleiter gehen?
+
+Tienes dinero para el vuelo?
+Hast du Geld für den Flug?
+
+Tal vez, cuanto cuesta? 
+Vielleicht, wie viel kostet es?
+
+Cuesta mucho dinero. 
+Es kostet viel Geld.
+
+María es una guía?
+Ist Maria eine Reiseleiterin?
+
+Por qué necesito dinero?
+Warum brauche ich Geld? 
+
+Le interesan las competencias? 
+Interessieren ihn die Wettbewerbe?
+
+Solo tienes trece anos? 
+Bist du nur dreizehn Jahre alt?
+
+No se, el doce de agosto? 
+Ich weiss es nicht, der zwölfte August?
+
+enero, febrero, marzo, abril, mayo, agosto 
+Januar, Februar, März, April, Mai, August
+
+Mi pasatiempo favorito es el fútbol.
+Mein Lieblingshobby ist Fussball.
+
+El catorce de enero es viernes.
+Der vierzehnte Januar ist ein Freitag.
+
+Any y yo tenemos trece anos. 
+Ana und ich sind dreizehn Jahre alt.
+
+Mis hijas tienen dieciocho anos. 
+Meine Töchter sind achtzehn Jahre alt.
+
+Eres artista? 
+Bist du Künstler?
+
+Guau, tienes muchos pasatiempos!
+Wow, du hast viele Hobbys!
+
+Ellos celebran su cumpleaños hoy.
+Sie feiern heute ihren Geburtstag.
+
+Es mi musica favorita. 
+Es ist meine Lieblingsmusik.
+
+Te gusta el arte clasico? 
+Magst du klassische Kunst?
+
+Todavia no tengo diecisiete. 
+Ich bin noch nicht siebzehn.
+
+Cuantos anos tiene tu hermano? 
+Wie alt ist dein Bruder?
+
+Te gustan los videojuegos? 
+Magst du Videospiele?
+
+Cuando es tu cumpleanos? 
+Wann ist dein Geburtstag?
+
+Te gusta basquetbol? 
+Magst du Basketball?
+
+Cuantos anos tienes? 
+Wie alt bist du?
+
+Si,me gusta mucho la musica clasica.
+Ja, ich mag klassische Musik sehr.
+
+Duermo hasta muy tarde. 
+Ich schlafe bis es sehr spät ist.
+
+Esta despierto, pero no quiere jugar. 
+Er ist wach, aber er will nicht spielen.
+
+No me gusta salir cuando está oscuro.
+Ich gehe nicht gerne aus, wenn es dunkel ist.
+
+Juega en la madrugada, cuando no hay ruido. 
+Er spielt früh morgens, wenn es keinen Lärm gibt.
+
+Me gusta la tecnología.
+Ich mag Technologie.
+
+Te gustan los videojuegos competitivos? 
+Magst du kompetitive Videospiele?
+
+Ella esta depierta, pero él duerma. 
+Sie ist wach, aber er schläft.
+
+Nunca juegas en la madrugada?
+Spielst du nie früh morgens?
+
+Es mi personaje favorito.
+Es ist meine Lieblingsfigur.
+
+Prefiero jugar en la madrugada. 
+Ich spiele lieber früh morgens.
+
+Termino de jugar in cinco minutos. 
+Ich höre in fünf Minuten auf zu spielen.
+
+Hablan sobre el videojuego en el foro. 
+Sie sprechen über das Videospiel im Forum.
+
+Ya no soy un adolescente!
+Ich bin schon kein Jugendlicher mehr!
+
+Y si juegas otro nivel? 
+Und wenn du eine anderes Level spielst?
+
+A que hora es la videollamada? 
+Um wie viel Uhr ist der Videoanruf? 
+
+Ana duerme ahora. 
+Ana schläft jetzt. 
+
+Ella juega más tarde porque vive en Sudamérica.
+Sie spielt später, weil sie in Südamerika lebt.
+
+¿Cuándo es el siguiente partido?
+Wann ist das nächste Spiel?
+
+Entrenamos mucho, pero jugamos mal.
+Wir trainieren viel, aber wir spielen schlecht.
+
+Vamos a entrenar temprano ¡sí o sí!
+Wir werden früh trainieren, so oder so!
+
+¿Quieres solucionar el problema?
+Möchtest du das Problem lösen?
+
+A veces dormimos en la cancha.
+Manchmal schlafen wir auf dem Spielfeld.
+
+Veo un charco grande.
+Ich sehe eine grosse Pfütze.
+
+Escuchas los truenos? 
+Hörst du die Donner?
+
+Esta nevando y hace viento. 
+Es schneit gerade und es ist windig.
+
+Mi equipo es profesional!
+Mein Team ist professionell!
+
+No sé, ¡es mi día libre!
+Ich weiss nicht, es ist mein freier Tag!
+
+Ese equipo es bueno?
+Ist dieses Team gut? 
+
+Si, ese equipo es excelente.
+Ja, dieses Team ist ausgezeichnet. 
+
+Cuándo jugamos otra vez?
+Wann spielen wir wieder? 
+
+Nosotros jugamos temprano el viernes.
+Wir spielen am Freitag früh.
+
+Si ganamos, ¡vamos a celebrar!
+Wenn wir gewinnen, werden wir feiern!
+
+Si jugamos bien, ganamos. 
+Wenn wir gut spielen, gewinnen wir.
+
+Nosotros jugamos muy bien! 
+Wir spielen sehr gut! 
+
+Quizas, pero vamos a ganar nosotros si o si!
+Vielleicht, aber wir werden gewinnen so oder so!
+
+Donde es el torneo?
+Wo ist das Turnier?
+
+El torneo es en la ciudad. 
+Das Turnier ist in der Stadt.
+
+Cuando es el torneo?
+Wann ist das Turnier?
+
+Ustedes juegan aquí, en esta cancha.
+Du spielst hier, auf diesem Platz.
+
+Ay, nosotros jugamos mal. 
+Ahh, wir spielen schlecht.
+
+El sábado jugamos en nuestra cancha.
+Am Samstag spielen wir auf unserem Heimplatz.
+
+Hay algun jugador enfermo?
+Gibt es einen kranken Spieler?
+
+Todos los jugadores están bien!
+Allen Spielern geht es gut!
+
+Esas jugadoras juegan muy bien. 
+Diese Spielerinnen spielen sehr gut.
+
+Casi siempre?
+Fast immer?
+
+Dormimos poco!
+Wir schlafen wenig!
+
+Voy a revisar eso.
+Ich werde das überprüfen.
+
+Esa es tu excusa?
+Ist das deine Ausrede? 
+
+¡Qué excusa! ¿Pablo no viene porque está lloviendo un poco?
+Was für eine Ausrede! Pablo kommt nicht, weil es gerade ein bisschen regnet?
+
+Si se confunden, no vamos a ganar.
+Wenn sie sich irren, werden wir nicht gewinnen. 
+
+Me confundo, porque gritas! 
+Ich irre mich, weil du schreist!
+
+Siempre me confundo! 
+Ich irre mich immer!
+
+Ay, nunca revisamos el horario.
+Ahh, wir haben nie den Zeitplan überprüft.
+
+Tu despertador esta rota otra vez? 
+Ist dein Wecker wieder kaputt?
+
+Casi siempre dormimos hasta las diez!
+Wir schlafen fast immer bis zehn Uhr!
+
+Practican menos?
+Üben sie weniger? 
+
+Sí, ¡estoy segura!
+Ja, ich bin sicher! 
+
+Estoy segura! Las jugadoras necesitan correr más en los entrenamientos.
+Ich bin sicher! Die Spieler müssen beim Training mehr rennen.
+
+Cómo solucionamos esto?
+Wie lösen wir das? 
+
+Últimamente dormimos muy poco!
+In letzter Zeit schlafen wir sehr wenig. 
+
+Últimamente no dormimos.
+Wir schlafen in letzter Zeit nicht.
+
+Están ansiosos, por eso juegan mal.
+Sie sind ängstlich, deshalb spielen sie schlecht.
+
+Si ellas duermen mucho, ¡corren menos!
+Wenn sie viel schlafen, laufen sie weniger! 
+
+Si ustedes duermen menos, entrenan más.
+Wenn ihr weniger schlaft, trainiert ihr mehr. 
+
+Que ansioso!
+Wie ängstlich! 
+
+Jugamos mal ultimamente. 
+Wir spielen in letzter Zeit schlecht.
+
+El siempre soluciona las cosas. 
+Er löst immer die Dinge.
+
+Vamos a solucionar esto juntas! 
+Wir werden das gemeinsam lösen!
+
+Nuestras rivales son muy competitivas! ¡Ellas quieren ganar sí o sí!
+Unsere Rivalen sind sehr kompetitiv! Sie wollen so oder so gewinnen!
+
+Somos las mejores!
+Wir sind die Besten!
+
+Nuestras rivales también son muy buenas.
+Unsere Konkurrenten sind auch sehr gut.
+
+Si, pero ustedes son las mejores. Felicitaciones!
+Ja, aber ihr seid die besten. Glückwunsch!
+
+En fin, jugamos bien.
+Letzendlich haben wir gut gespielt.
+
+Celebramos o dormimos?
+Feiern wir oder schlafen wir?
+
+Duermen porque están cansadas.
+Sie schlafen, weil sie müde sind.
+
+Nunca dormimos cuando jugamos.
+Wir schlafen nie, wenn wir spielen. 
+
+Jugamos en el mejor equipo. 
+Wir spielen im besten Team.
+
+Gracias! En fin, entrenamos mucho! 
+Danke! Letztendlich trainieren wir viel!
+
+Excusas! Tu casi siempre llegas tarde. 
+Ausreden! Du kommst fast immer zu spät!
+
+Mañana es el torneo y no estoy lista!
+Morgen ist das Turnier und ich bin nicht bereit!
+
+Estoy muy ansiosa y preocupada.
+Ich bin sehr ängstlich und besorgt.
+
+Exacto, jugamos mañana.
+Genau, wir spielen morgen.
+
+En fin, ahora solo quiero dormir.
+Letztendlich will ich jetzt nur schlafen!
+
+El sábado jugamos el siguiente partido.
+Am Samstag spielen wir das nächste Spiel.
+
+Si, soy la mejor. 
+Ja, ich bin die Beste.
+
+Jugamos mal?
+Spielen wir schlecht? 
+
+No, pero ultimamente ganamos menos. 
+Nein, aber in letzter Zeit gewinnen wir weniger.
+
+Vamos a ganar, si jugamos juntos!
+Wir werden gewinnen wenn wir zusammen spielen!
+
+El partido es a las nueve, ¿no?
+Das Spiel findet um neun Uhr statt, nicht wahr?
+
+Si, casi siempre es a esa hora. 
+Ja, fast immer ist sie um diese Zeit.
+
+Estamos ansiosas, porque nosotras dormimos poco. 
+Wir sind ängstlich, weil wir wenig schlafen.
+
+Últimamente nosotros dormimos poco. 
+In letzter Zeit schlafen wir wenig. 
+
+Sie schlafen mehr, deswegen sind sie nie müde.
+Ellos duermen más, por eso nunca están cansados.
+
+Y ahora, cual es tu excusa? 
+Und jetzt, was ist deine Ausrede?
+
+Nunca te despiertas a tiempo. 
+Du wachst nie pünktlich auf. 
+
+¿Tu despertador está roto? 
+Ist dein Wecker kaputt?
+
+El equipo es especial, pero últimamente no juega bien, y el torneo es el siguiente mes. 
+Die Mannschaft ist etwas Besonderes, aber in letzter Zeit spielt sie nicht gut, und das Turnier ist nächsten Monat. 
+
+Estoy preocupado y quiero solucionar el problema.
+Ich bin besorgt und möchte das Problem lösen.
+
+El chico esta buscando una solucion. 
+Der Junge sucht nach einer Lösung.
+
+Estoy seguro, sus jugadores nunca duermen.
+Ich bin sicher, seine Spieler schlafen nie.
+
+Voy a revisar eso. 
+Ich werde das überprüfen.
+
+Es un equipo competitivo.
+Es ist ein kompetitives Team. 
+
+Pues, nosotros siempre jugamos bien en los torneos. 
+Nun, wir spielen immer gut in den Turnieren.
+
+Van a venir si o si! 
+Sie werden so oder so kommen!
+
+Vamos a participar si o si! 
+Wir werden teilnehmen, so oder so!
+
+Si, nosotras jugamos el siguiente partido a las cinco. 
+Ja, wir spielen das nächste Spiel um fünf Uhr. 
+
+Tu juegas con nosotras? 
+Spielst du mit uns?
+
+Honestamente, ¡estamos listos y jugamos bien! 
+Ehrlich gesagt, wir sind bereit und spielen gut! 
+
+Somos rápidos, fuertes y bastante competitivos. 
+Wir sind schnell, stark und sehr wettbewerbsfähig. 
+
+Vamos a ganar el próximo partido ¡sí o sí!
+Wir werden das nächste Spiel gewinnen, egal was passiert!
+
+Yo nunca gano nada.
+Ich gewinne nie etwas. 
+
+Hacen yoga al aire libre.
+Sie machen Yoga im Freien.
+
+Hay mucho espacio aqui. 
+Es gibt hier viel Platz.
+
+Aqui hay pocos entrenadores de natacion. 
+Hier gibt es wenige Schwimmlehrer.
+
+Que raro, no esta en el patio. 
+Wie seltsam, er ist nicht im Hof.
+
+Y si hablamos con el conductor? 
+Und wenn wir mit dem Fahrer sprechen?
+
+Pues, vamos en bicicleta. 
+Nun, wir fahren mit dem Fahrrad.
+
+Estoy muy nervioso, porque siempre se escapa. 
+Ich bin sehr nervös, weil er immer wegläuft!
+
+Es una aventura especial! 
+Das ist ein besonderes Abenteuer!
+
+Nosotros jugamos en el centro?
+Spielen wir im Mittelfeld?
+
+Exacto, el siguiente partido es manana. 
+Genau, das nächste Spiel ist morgen.
+
+Honestamente, esos jugadores no juegan bien. 
+Ehrlich gesagt, diese Spieler spielen nicht gut.
+
+Jugamos a las ocho en su cancha.
+Wir spielen um acht auf ihrem Spielfeld.
+
+Nosotros jugamos la próxima semana. 
+Wir spielen nächste Woche. 
+
+Los jugadores nuevos juegan hoy.
+Die neuen Spieler spielen heute.
+
+Ustedes juegan aqui, en esta cancha. 
+Ihr spielt hier auf diesem Spielfeld.
+
+Jugamos en esa cancha? 
+Spielen wir auf diesem Spielfeld?
+
+Nunca usas el despertador!
+Du benutzt nie den Wekcer. 
+
+Quieres un despertador? 
+Möchtest du einen Wecker?
+
+Casi siempre dormimos mucho. 
+Wir schlafen fast immer viel.
+
+Casi siempre dormimos poco. 
+Wir schlafen fast immer wenig.
+
+No tengo excusas. 
+Ich habe keine Ausreden.
+
+Yo siempre reviso el horario!
+Ich überprüfe immer den Zeitplan. 
+
+Nunca revisas nada. 
+Du überprüfst nie etwas.
+
+Por que siempre te confundes? 
+Warum irrst du dich immer?
+
+Casi siempre llegas tarde, porque duermes mucho. 
+Du kommst fast immer zu spät, weil du viel schläfst.
+
+Nosostras no dormimos mucho.
+Wir schlafen nicht viel.
+
+Nunca usas el despertador! 
+Du benutzt nie den Wecker!
+
+Tu excusa es increible! 
+Deine Ausrede ist unglaublich!
+
+Ellos no duermen, porque están ansiosos.
+Sie schlafen nicht, weil sie ängstlich sind.
+
+Estoy seguro, hoy ganamos! 
+Ich bin sicher, heute gewinnen wir!
+
+Tu solucionas el problema. 
+Du löst das Problem.
+
+Estoy ansiosa, cuando juego. 
+Ich bin ängstlich, wenn ich spiele.
+
+Pues, ultimamente nosotros no dormimos mucho. 
+Nun, in letzter Zeit schlafen wir nicht viel.
+
+Ese jugador es malo, estoy seguro. 
+Dieser Spieler ist schlecht, ich bin sicher.
+
+Si ellos duermen menos, no juegan bien. 
+Wenn sie weniger schlafen, spielen sie nicht gut.
+
+Nosotros dormimos bien y no estamos cansado. 
+Wir schlafen gut und wir sind nicht müde.
+
+Estás ansiosa y enojada.
+Du bist ängstlich und verliebt. 
+
+Últimamente entrenamos mucho.
+Wir trainieren in letzter Zeit sehr viel.
+
+Eres el mejor entrenador. 
+Du bist der beste Trainer.
+
+Muy bien, felicitaciones!
+Sehr gut, Glückwunsch!
+
+Celebramos ahora y dormimos luego. 
+Wir feiern jetzt und schlafen später.
+
+Si, las mejores jugadoras ahora duermen.
+Ja, die besten Spieler schlafen heute.
+
+Mis rivales nunca ganan. 
+Meine Rivalen gewinnen nie.
+
+Las campeonas nunca duermen!
+Die Meisterinnen schlafen nie!
+
+Somos amigas y rivales! 
+Wir sind Freundinnen und Rivalinnen!
+
+Que dia juegas con tu equipo? 
+Welchen Tag spielst du mit deinem Team?
+
+De hecho, ellos juegan en el centro. 
+Was das betrifft, spielen sie im Mittelfeld.
+
+Los campeones duermen y descansan. 
+Die Meister schlafen und ruhen sich aus. 
+
+Por esos nosotros dormimos y descansamos tambien! 
+Deswegen schlafen wir und ruhen uns auch aus!
+
+Eres el mejor! 
+Du bist der Beste!
+
+Te confundes, nosotros no dormimos mucho. 
+Du irrst dich, wir schlafen nicht viel.
+
+Tu duermes mucho y nunca entrenas! 
+Du schläfst viel und du trainierst nie!
+
+Nosotras dormimos mas de ocho horas! 
+Wir schlafen mehr als acht Stunden!
+
+Tenemos las mejoras jugadoras!
+Wir haben die besten Spielerinnen!
+
+Yo siempre reviso el horario!
+Ich überprüfe immer den Zeitplan!
+
+No nos gustan los conciertos de Luis.
+Wir mögen die Konzerte von Luis nicht.
+
+Te interesan los blogs de comida?
+Interessieren dich Food-Blogs?
+
+Que color te gusta? 
+Welche Farbe magst du?
+
+Te gusta ese musical? 
+Gefällt dir dieses Musical?
+
+Bueno, me interesa las competencias. 
+Also, mich interessieren die Wettbewerbe.
+
+Nos gustan muchos sus canciones! 
+Wir mögen ihre Lieder sehr!
+
+Quieres hacer una fiesta en mi casa?
+Willst du eine Party in meinem Haus machen? 
+
+Quiero enviar un regalo para su cumpleaños.
+Ich möchte ihm ein Geschenk zu seinem Geburtstag schicken.
+
+Voy a enviar las invitaciones. 
+Ich werde die Einladungen schicken.
+
+Quiero hacer una fiesta! 
+Ich will eine Party machen!
+
+No les gustan los cantantes de música pop?
+Sie mögen keine Popmusiker?
+
+Hay tormenta y no tengo el impermeable!
+Es gibt ein Unwetter und ich habe keinen Regenmantel!
+
+El tormento trae lluvia y viento.
+Der Sturm bringt Regen und Wind mit.
+
+Donde esta la llave del garaje?
+Wo ist der Schlüssel für die Garage?
+
+Esta en el garaje, porque no funciona.
+Es ist in der Garage, weil es nicht funktioniert.
+
+Tu perro esta jugando con una perrita. 
+Dein Hund spielt mit einem kleinen Hündchen!
+
+No se, esta debajo de la cama?
+Ich weiss nicht, ist es unter dem Bett?
+
+Mi perro come poco.
+Mein Hund isst wenig.
+
+Vas a discutir con la taxista? 
+Wirst du mit der Taxifahrerin diskutieren?
+
+Bueno, a veces se escapa. 
+Also, manchmal läuft sie weg.
+
+Pues, voy a usar mi bicicleta! 
+Nun, ich werde mein Fahrrad benutzen!
+
+Quizas, tu perro esta debajo de la cama?
+Vielleicht ist dein Hund unter dem Bett?
+
+Estoy demasiado ocupada esta ano. 
+Ich bin dieses Jahr zu beschäftigt.
+
+Si necesitas apoyo, mi oficina esta ahi. 
+Wenn du Unterstützung brauchst, mein Büro ist da.
+
+Trabajo sin parar. 
+Ich arbeite ununterbrochen.
+
+Maria, no quiero ir al zoologico.
+María, ich will nicht in den Zoo gehen.
+
+Tu papa vive en la costa? 
+Lebt dein Vater an der Küste?
+
+Vamos a explorar las montanas?
+Werden wir die Berge erkunden?
+
+Y si buscamos en el parque? 
+Und wenn wir im Park suchen?
+
+Es timido, esta debajo de la cama. 
+Er ist schüchtern, er ist unter dem Bett.
+
+Donde esta el taxista? 
+Wo ist der Taxifahrer?
+
+Chicos, que tiempo hace? 
+Jungs, wie ist das Wetter?
+
+Ay no, la falda es muy estrecha.
+Oh nein, der Rock ist sehr eng.
+
+Los aretes están en oferta!
+Die Ohrringe sind im Angebot. 
+
+Nosotros preferimos los calcetines blancos.
+Wir bevorzugen weisse Socken.
+
+Qué calcetines quieren?
+Welche Socken möchten Sie? 
+
+Ay, esta camiseta es estrecha.
+ay, dieses T-Shirt ist eng.
+
+Entonces, quieres otra camiseta? 
+Also, willst du ein anderes Hemd?
+
+Donde estan los calcetines? 
+Wo sind die Socken?
+
+Cuales de estas camisas quieren? 
+Welche dieser Hemden wollen Sie?
+
+Quiero comprar ropa en internet. 
+Ich will Kleidung im Internet kaufen.
+
+Esa marca es mejor, no? 
+Diese Marke ist besser, nicht wahr?
+
+Vas a pagar con monedas? 
+Zahlst du mit Münzen?
+
+Bueno, son mejores para el invierno. 
+Also, sie sind besser für den Winter.
+
+Les gustan las canciones. 
+Sie mögen die Lieder.
+
+No les interesa la artista.
+Sie interessieren sich nicht für die Künstlerin.
+
+Le gusta, ¿verdad?
+Sie mögen das, richtig?
+
+Beuneo, pero cual es el problema? 
+Also, aber was ist das Problem?
+
+No, son incomodas. 
+Nein, sie sind unbequem.
+
+Donde esta el probador? 
+Wo ist die Umkleidekabine?
+
+Me encantan esos shorts! 
+Ich liebe diese kurzen Hosen!
+
+Ana, necesitas ropa interior? 
+Ana, brauchst du Unterwäsche?
+
+Si, el concierto nos interesa. 
+Ja, das Konzert interessiert uns.
+
+Si, toco la bateria. 
+Ja, ich spiele Schlagzeug.
+
+Con tarjeta de credito! 
+Mit Kreditkarte!
+
+Nos gusta tu cancion! 
+Wir mögen dein Lied!
+
+Toca la guitarra en dos eventos. 
+Er spielt die Gitarre bei zwei Events.
+
+Hay un evento manana. 
+Es gibt morgen ein Event.
+
+No les gustan los cantantes de musica pop? 
+Mögen sie Popmusiker nicht?
+
+Son musicos famosos. 
+Sie sind berühmte Musiker.
+
+Si, el proximo concierto es en enero. 
+Ja, das nächste Konzert ist im Januar.
+
+Le gustan estos sombreros, senora? 
+Gefallen Ihnen diese Hüte, meine Dame?
+
+Ay, nos gustan sus guitarras! 
+Ahh, wir mögen ihre Gitarren!
+
+Donde pago? 
+Wo bezahle ich?
+
+Ustedes juegan en esta cancha? 
+Spielt ihr auf diesem Spielfeld?
+
+Todas las jugadoras entrenan aqui. 
+Alle Spielerinnen trainieren hier.
+
+No, ese equipo es malo. 
+Nein, dieses Team ist schlecht.
+
+No juego en el siguiente partido.
+Ich spiele nicht im nächsten Spiel.
+
+Yo nunca juego en el centro. 
+Ich spiele nie im Mittelfeld!
+
+Cuales de esos equipos juegan manana? 
+Welche dieser Teams spielen morgen?
+
+Jugamos mal, pero a veces ganamos!
+Wir spielen schlecht, aber manchmal gewinnen wir!
+
+La proxima vez voy a traer el impermeable.
+Nächstes Mal bringe ich den Regenmantel mit.
+
+Ustedes nunca revisan sus mensajes! 
+Ihr überprüft nie eure Nachrichten!
+
+Por que no revisas tu celular? 
+Warum überprüfst du nicht dein Handy?
+
+Estas ansiosa y no quieres jugar? 
+Bist du ängstlich und willst nicht spielen?
+
+Quiero solucionar esto. 
+Ich will das lösen.
+
+No tenemos excusas, nosotros dormimos muchas horas. 
+Wir haben keine Ausreden, wir schlafen viele Stunden.
+
+Quiero ir a Argentina la proxima vez. 
+Ich will nächstes Mal nach Argentinien gehen.
+
+Que mala suerte! Esta lloviendo!  
+Was für ein Pech! Es regnet.
+
+Esto no es un poco de lluvia, es una tormenta. 
+Das ist nicht ein bisschen Regen, das ist ein Sturm!
+
+Por que estas corriendo?
+Warum rennen Sie?
+
+Mi abrigo está mojado.
+Mein Mantel ist nass. 
+
+¡Necesitamos un refugio para la lluvia!
+Wir brauchen einen Unterschlupf gegen den Regen. 
+
+Mira! Alla hay un arbol grande! 
+Schau! Dort ist ein grosser Baum!
+
+Estamos subiendo la montaña juntos.
+Wir steigen zusammen den Berg hinauf.
+
+La próxima vez necesitamos traer cosas para la lluvia.
+Ds nächste Mal müssen wir etwas gegen den Regen mitnehmen. 
+
+Yo ya no salgo mi casa sin paraguas.
+Ich verlasse mein Haus nicht mehr ohne Regenschirme.
+
+Sus novias les envian cartas, no? 
+Ihre Freundinnen schicken ihnen Briefe, nicht wahr?
+
+Este postal es de abuelo! 
+Diese Postkarte ist vom Grossvater!
 
 
