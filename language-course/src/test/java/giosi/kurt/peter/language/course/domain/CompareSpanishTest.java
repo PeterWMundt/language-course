@@ -28,5 +28,6 @@ public class CompareSpanishTest {
 	public void compare() {
 		assertEquals(0, this.compareSpanish.compare("alguien necesita una ambulancia", "¡Alguien necesita una ambulancia!" ));
 
+		assertEquals(3, this.compareSpanish.compare("nunca almuerzo en el parque", "Yo nunca almuerzo en el parque." ));
 	}
 }

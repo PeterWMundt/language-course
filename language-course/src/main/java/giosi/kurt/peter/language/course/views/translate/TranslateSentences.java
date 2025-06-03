@@ -1,5 +1,8 @@
 package giosi.kurt.peter.language.course.views.translate;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.vaadin.lineawesome.LineAwesomeIconUrl;
 
@@ -25,23 +28,27 @@ import giosi.kurt.peter.language.course.domain.SentencesRepository;
 
 @SuppressWarnings("serial")
 @PageTitle("Traducir frases")
-@Route("") // TranslateSentences.TRANSLATE_SENTENCES_PATH)
-@RouteAlias(TranslateSentences.TRANSLATE_SENTENCES_PATH)
+@Route("") // .. default
+@RouteAlias(TranslateSentences.TRANSLATE_SENTENCES_ROUTE_ALIAS)
 @Menu(order = 1, icon = LineAwesomeIconUrl.ATOM_SOLID)
 public class TranslateSentences extends VerticalLayout {
+
+	private static final Logger  LOGGER = LoggerFactory.getLogger(TranslateSentences.class);
+
+	public static final String	TRANSLATE_SENTENCES_ROUTE_ALIAS	= "translate-sentences";
 	
-	public static final String	TRANSLATE_SENTENCES_PATH	= "translate-sentences";
 	
-	public static final String	BASE_SENTENCES_PATH	= "src/main/resources/base_sentences.txt";
+	@Value("${translate.sentences.allowed.distance:3}")
+	private int			allowedDistance;
 
 	// domain
 	
-	private CompareSpanish compareSpanish ;
-	private LanguageElementRepository languageElementRepository;
-	private LanguageElement			newLanguageElement;
+	private CompareSpanish				compareSpanish;
+	private LanguageElementRepository	languageElementRepository;
+	private LanguageElement				newLanguageElement;
 	
 	// ui 
-
+	
 	private Paragraph	paragraphListSentencesInformation;
 	
 	private TextField	nativeLanguage;
@@ -52,20 +59,20 @@ public class TranslateSentences extends VerticalLayout {
 	private Button		buttonCompareSentence;
 	private Button		buttonNewSentence;
 	
-	private Div iconContainer = new Div();
-
-	private Icon closeIcon = VaadinIcon.CLOSE.create();
-	private Icon checkCircleIcon = VaadinIcon.CHECK_CIRCLE.create();
+	private Div			iconContainer	= new Div();
 	
-	@Value("${translate.sentences.allowed.distance:3}")
-	private int allowedDistance;
+	private Icon		closeIcon		= VaadinIcon.CLOSE.create();
+	private Icon		checkCircleIcon	= VaadinIcon.CHECK_CIRCLE.create();
 	
-	public TranslateSentences() {
+	
+	public TranslateSentences(@Autowired SentencesRepository sentencesRepository) {
 		this.setSpacing(false);
 		
-		this.languageElementRepository = new SentencesRepository(BASE_SENTENCES_PATH);
+		this.languageElementRepository = sentencesRepository;
 		this.compareSpanish = new CompareSpanish(System.out);
-		
+
+		LOGGER.debug("allowedDistance ={}", this.allowedDistance);
+
 		H2 header = new H2(this.getTranslation("translate.from.native.to.foreign"));
 		header.addClassNames(Margin.Top.XLARGE, Margin.Bottom.MEDIUM);
 		this.add(header);
@@ -80,11 +87,11 @@ public class TranslateSentences extends VerticalLayout {
 		this.foreignLanguage = new TextField(this.getTranslation("foreign.language"));
 		this.foreignLanguage.setWidthFull();
 		this.add(this.foreignLanguage);
-
+		
 		this.paragraphCorrectSentence = new Paragraph("");
 		this.paragraphCorrectSentence.setHeight("2.5em");
-		this.add(new HorizontalLayout(this.paragraphCorrectSentence, this.iconContainer ));
-
+		this.add(new HorizontalLayout(this.paragraphCorrectSentence, this.iconContainer));
+		
 		this.buttonCompareSentence = new Button(this.getTranslation("compare.sentence"));
 		this.buttonCompareSentence.addClickListener(clickEvent -> {
 			
@@ -104,11 +111,10 @@ public class TranslateSentences extends VerticalLayout {
 		});
 		this.add(new HorizontalLayout(this.buttonCompareSentence, this.buttonNewSentence));
 		
-		
 		//this.listSentences		= LanguageElementReader.readSentencesFromResources(BASE_SENTENCES_PATH);
 		this.paragraphListSentencesInformation.setText(String.format(this.getTranslation("list.sentences.information"), this.languageElementRepository.listSize()));
 	}
-
+	
 	private void compare() {
 		String enteredText = this.foreignLanguage.getValue();
 		String correctSentence = this.newLanguageElement.getForeignLanguage();
@@ -116,7 +122,7 @@ public class TranslateSentences extends VerticalLayout {
 		int distance = this.compareSpanish.compare(enteredText, correctSentence);
 		
 		this.iconContainer.removeAll();
-		if(this.allowedDistance < distance) {
+		if (this.allowedDistance < distance) {
 			this.iconContainer.add(this.closeIcon);
 		} else {
 			this.iconContainer.add(this.checkCircleIcon);

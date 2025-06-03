@@ -31,16 +31,16 @@ public class LanguageElementReader {
 	 * It is expected that these 2 sentences follow immediately. <br>
 	 * Between the pairs of sentences can be any number of empty lines! 
 	 * 
-	 * @param pathAsString
+	 * @param resourcesPath
 	 * @return list of language elements 
 	 */
-	public static List<LanguageElement> readSentencesFromResources(String pathAsString)  {
-    	LOGGER.debug("readSentencesFromResources - pathAsString={}", pathAsString);
+	public static List<LanguageElement> readSentencesFromResources(String resourcesPath)  {
+    	LOGGER.debug("readSentencesFromResources - resourcesPath={}", resourcesPath);
 		
 		List<LanguageElement> listSentence = new ArrayList<>();
 		
 		try {
-			Path path = Paths.get(pathAsString);
+			Path path = Paths.get(resourcesPath);
 			List<String> lines = Files.lines(path).collect(Collectors.toList());
 			
 			String line1 = "";
@@ -58,7 +58,7 @@ public class LanguageElementReader {
 				}
 			}
 		} catch (Exception e) {
-			System.out.println(e);
+	    	LOGGER.error("readSentencesFromResources - Exception={}", e.getClass().getName());
 		}
 		
 		return listSentence;
@@ -73,6 +73,7 @@ public class LanguageElementReader {
 	 * @return
 	 */
 	public static List<LanguageElement> readWordsFromResources(String wordPath, String regex) {
+    	LOGGER.debug("readWordsFromResources - wordPath={}", wordPath);
 		List<LanguageElement> listSentence = new ArrayList<>();
 		
 		try {
@@ -89,7 +90,7 @@ public class LanguageElementReader {
 				}
 			}
 		} catch (Exception e) {
-			System.out.println(e);
+	    	LOGGER.error("readWordsFromResources - Exception={}", e.getClass().getName() );
 		}
 		
 		return listSentence;

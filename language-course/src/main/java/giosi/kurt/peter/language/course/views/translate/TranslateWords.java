@@ -2,6 +2,7 @@ package giosi.kurt.peter.language.course.views.translate;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.vaadin.lineawesome.LineAwesomeIconUrl;
 
@@ -26,16 +27,14 @@ import giosi.kurt.peter.language.course.domain.WordsRepository;
 
 @SuppressWarnings("serial")
 @PageTitle("Traducir palabras")
-@Route(TranslateWords.TRANSLATE_WORDS_PATH)
+@Route(TranslateWords.TRANSLATE_WORDS_ROUTE)
 @Menu(order = 2, icon = LineAwesomeIconUrl.FILE)
 public class TranslateWords extends VerticalLayout {
 	
 	private static final Logger			LOGGER					= LoggerFactory.getLogger(TranslateWords.class);
 	
-	public static final String			TRANSLATE_WORDS_PATH	= "translate-words";
-	
-	public static final String			WORD_PATH				= "src/main/resources/words.txt";
-	
+	public static final String			TRANSLATE_WORDS_ROUTE	= "translate-words";
+		
 	private static final String			WIDTH_WORD				= "50%";
 	
 	private CompareSpanish				compareSpanish;
@@ -62,10 +61,10 @@ public class TranslateWords extends VerticalLayout {
 	@Value("${translate.words.allowed.distance:3}")
 	private int			allowedDistance;
 	
-	public TranslateWords() {
+	public TranslateWords(@Autowired WordsRepository wordsRepository) {
 		this.setSpacing(false);
-
-		this.languageElementRepository = new WordsRepository(WORD_PATH);
+		
+		this.languageElementRepository = wordsRepository;
 		this.compareSpanish = new CompareSpanish(System.out);
 
 		H2 header = new H2(this.getTranslation("translate.from.native.to.foreign"));
@@ -113,7 +112,7 @@ public class TranslateWords extends VerticalLayout {
 	}
 	
 	private void compare() {
-		LOGGER.debug("compare");
+		LOGGER.debug("compare - allowedDistance={}", this.allowedDistance);
 		
 		String enteredText = this.foreignLanguage.getValue();
 		String correctSentence = this.newLanguageElement.getForeignLanguage();

@@ -1,3 +1,58 @@
+gerente; Manager
+mandar; schicken
+pesado; schwer
+hacer fila; anstehen
+hay que; Man muss
+evitar; meiden
+antibiótico; Antibiotikum
+jarabe; Sirup
+va a estar bien; werden gut sein, wird gut sein
+temperatura; Temperatur
+normal; normal
+examen médico; Untersuchung
+tener que; müssen
+tengo que; muss
+esperar a; warten
+tienes que; musst
+completar; ausfüllen; 
+formulario; Formular
+lentamente; langsam
+poder; können
+mover; verschieben, Umzugshelfer, Bewegen
+muevo; bewege, Bewege
+sala de urgencias; Notaufnahme
+llamar a; anrufen
+levantar; heben
+respirar; atmen
+mareado; schwindelig
+puedo; darf, Darf, Kann
+todo; alles
+lámpara; Lampe
+alfombra; Teppich
+planchar; bügeln
+sala; Wohnzimmer
+esforzarse; sich bemühen
+me esfuerzo; ich bemühe mich
+habitación; Zimmer
+inodoro; Toilette
+armario; Schrank
+bañera; Badewanne
+balcón; Balkon
+colgar; aufhängen
+cuelgo; ich hänge auf
+secar; trocknen
+tendedero; Wäscheständer
+escoba; Besen
+barrer; fegen
+detergente; Reinigungsmittel
+esponja; Schwamm
+encuentro; ich finde
+aspiradora; Staubsauger
+lavaplatos; Spülmaschine
+almorzar; zu Mittag essen
+taza; Tasse
+estufa; Herd
+sartén; Bratpfanne
 en fin; letztendlich
 felicitaciones; Glückwunsch
 el mejor; der Beste

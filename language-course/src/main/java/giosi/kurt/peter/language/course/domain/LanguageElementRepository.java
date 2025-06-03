@@ -6,35 +6,50 @@ package giosi.kurt.peter.language.course.domain;
 import java.util.List;
 import java.util.Random;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 /**
  * 
  *
  * @author peter.mundt@orcasys.ch
  */
 public abstract class LanguageElementRepository {
+
 	
+	protected Logger  logger = LoggerFactory.getLogger(this.getClass());
+
 	protected List<LanguageElement>		listLanguageElements;
 	
 	private Random				random				= new Random();
 	/**
 	 * @param baseSentencesPath
 	 */
-	public LanguageElementRepository(String path) {
-		this.readLanguageElementsFromResources(path);
+	public LanguageElementRepository() {
 	}
 	
-	protected abstract void readLanguageElementsFromResources(String path);
+	protected abstract List<LanguageElement>	 readLanguageElementsFromResources();
 	/**
 	 * @return
 	 */
 	public LanguageElement getNewLanguageElement() {
-		return this.listLanguageElements.get(this.random.nextInt(this.listLanguageElements.size()));
+		this.logger.debug("getNewLanguageElement");
+		return this.getListLanguageElements().get(this.random.nextInt(this.getListLanguageElements().size()));
 	}
 	/**
 	 * @return
 	 */
 	public int listSize() {
-		return this.listLanguageElements.size();
+		this.logger.debug("listSize");
+		return this.getListLanguageElements().size();
+	}
+
+	private List<LanguageElement> getListLanguageElements() {
+		this.logger.debug("getListLanguageElements");
+		if(null == this.listLanguageElements) {
+			this.listLanguageElements = this.readLanguageElementsFromResources();			
+		}
+		return this.listLanguageElements;
 	}
 
 }
